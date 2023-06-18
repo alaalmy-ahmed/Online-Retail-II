@@ -1,17 +1,17 @@
 Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE,Segments
 171,11,206.36,2,5,4,25,Can't Loose
-9,2,162.95,5,2,3,52,Potintial Loyalist
+9,2,162.95,5,2,3,52,Potential Loyalist
 80,1,14.389999999999997,2,1,1,21,Hibernating
 49,2,373.43999999999994,3,2,5,32,About to Sleep
 17,1,49.46000000000001,5,1,2,51,New Customer
-17,2,54.60000000000001,5,2,2,52,Potintial Loyalist
+17,2,54.60000000000001,5,2,2,52,Potential Loyalist
 50,1,38.78000000000001,3,1,1,31,About to Sleep
 209,1,52.78,1,1,2,11,Hibernating
-22,3,210.94999999999996,4,3,4,43,Potintial Loyalist
+22,3,210.94999999999996,4,3,4,43,Potential Loyalist
 30,1,531.17,4,1,5,41,Promising
-17,3,199.97999999999996,5,3,4,53,Potintial Loyalist
+17,3,199.97999999999996,5,3,4,53,Potential Loyalist
 67,6,486.11,3,4,5,34,Loyal Customer
-34,3,118.10000000000001,4,3,3,43,Potintial Loyalist
+34,3,118.10000000000001,4,3,3,43,Potential Loyalist
 104,3,78.89999999999999,2,3,2,23,At Risk
 270,1,79.05,1,1,2,11,Hibernating
 55,3,171.16,3,3,3,33,Need Attention
@@ -19,8 +19,8 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 51,3,301.8500000000001,3,3,4,33,Need Attention
 266,2,91.85000000000001,1,2,3,12,Hibernating
 63,2,109.47,3,2,3,32,About to Sleep
-31,2,24.4,4,2,1,42,Potintial Loyalist
-23,2,149.5,4,2,3,42,Potintial Loyalist
+31,2,24.4,4,2,1,42,Potential Loyalist
+23,2,149.5,4,2,3,42,Potential Loyalist
 204,1,251.11999999999995,1,1,4,11,Hibernating
 64,2,120.9,3,2,3,32,About to Sleep
 107,4,484.23999999999995,2,4,5,24,At Risk
@@ -31,15 +31,15 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 44,3,130.06,3,3,3,33,Need Attention
 106,4,581.9100000000001,2,4,5,24,At Risk
 233,1,35.25,1,1,1,11,Hibernating
-24,2,119.44999999999999,4,2,3,42,Potintial Loyalist
+24,2,119.44999999999999,4,2,3,42,Potential Loyalist
 13,4,235.39000000000001,5,4,4,54,VIP
 316,1,149.46,1,1,3,11,Hibernating
-27,3,99.15,4,3,3,43,Potintial Loyalist
+27,3,99.15,4,3,3,43,Potential Loyalist
 56,1,32.05,3,1,1,31,About to Sleep
 34,5,195.14999999999998,4,4,4,44,Loyal Customer
 163,1,3.75,2,1,1,21,Hibernating
-41,3,154.53,4,3,3,43,Potintial Loyalist
-27,3,135.18,4,3,3,43,Potintial Loyalist
+41,3,154.53,4,3,3,43,Potential Loyalist
+27,3,135.18,4,3,3,43,Potential Loyalist
 62,4,310.06999999999994,3,4,4,34,Loyal Customer
 144,1,35.870000000000005,2,1,1,21,Hibernating
 51,1,74.70000000000002,3,1,2,31,About to Sleep
@@ -50,10 +50,10 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 298,1,16.88,1,1,1,11,Hibernating
 52,11,811.73,3,5,5,35,Loyal Customer
 55,3,220.04,3,3,4,33,Need Attention
-27,2,70.09,4,2,2,42,Potintial Loyalist
+27,2,70.09,4,2,2,42,Potential Loyalist
 57,2,33.76,3,2,1,32,About to Sleep
 36,9,303.52,4,5,4,45,Loyal Customer
-29,2,107.88999999999999,4,2,3,42,Potintial Loyalist
+29,2,107.88999999999999,4,2,3,42,Potential Loyalist
 64,2,117.55999999999997,3,2,3,32,About to Sleep
 90,1,126.47000000000001,2,1,3,21,Hibernating
 304,1,137.81999999999996,1,1,3,11,Hibernating
@@ -62,7 +62,7 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 15,13,654.88,5,5,5,55,VIP
 8,5,569.8,5,4,5,54,VIP
 23,1,68.12,4,1,2,41,Promising
-38,3,204.51,4,3,4,43,Potintial Loyalist
+38,3,204.51,4,3,4,43,Potential Loyalist
 37,20,774.0999999999999,4,5,5,45,Loyal Customer
 324,2,263.15999999999997,1,2,4,12,Hibernating
 104,2,94.33999999999999,2,2,3,22,Hibernating
@@ -70,9 +70,9 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 374,1,83.28,1,1,2,11,Hibernating
 62,1,55.34,3,1,2,31,About to Sleep
 80,1,4.25,2,1,1,21,Hibernating
-41,3,69.49000000000001,4,3,2,43,Potintial Loyalist
+41,3,69.49000000000001,4,3,2,43,Potential Loyalist
 105,3,325.39,2,3,4,23,At Risk
-37,3,24.849999999999998,4,3,1,43,Potintial Loyalist
+37,3,24.849999999999998,4,3,1,43,Potential Loyalist
 87,4,558.06,2,4,5,24,At Risk
 77,1,99.5,2,1,3,21,Hibernating
 69,2,93.65,3,2,3,32,About to Sleep
@@ -87,8 +87,8 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 20,11,616.61,5,5,5,55,VIP
 51,1,82.84,3,1,2,31,About to Sleep
 39,7,965.9200000000001,4,5,5,45,Loyal Customer
-41,3,1041.27,4,3,5,43,Potintial Loyalist
-41,3,230.13,4,3,4,43,Potintial Loyalist
+41,3,1041.27,4,3,5,43,Potential Loyalist
+41,3,230.13,4,3,4,43,Potential Loyalist
 7,5,421.23999999999995,5,4,5,54,VIP
 218,19,137.99999999999997,1,5,3,15,Can't Loose
 20,11,126.05000000000001,5,5,3,55,VIP
@@ -98,10 +98,10 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 372,1,2.55,1,1,1,11,Hibernating
 20,10,429.55999999999995,5,5,5,55,VIP
 45,1,52.0,3,1,2,31,About to Sleep
-7,3,96.29,5,3,3,53,Potintial Loyalist
+7,3,96.29,5,3,3,53,Potential Loyalist
 282,1,57.0,1,1,2,11,Hibernating
 262,2,19.27,1,2,1,12,Hibernating
-42,2,35.17,4,2,1,42,Potintial Loyalist
+42,2,35.17,4,2,1,42,Potential Loyalist
 202,1,44.9,1,1,2,11,Hibernating
 77,7,219.80999999999997,2,5,4,25,Can't Loose
 59,2,7.5,3,2,1,32,About to Sleep
@@ -128,25 +128,25 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 90,1,83.0,2,1,2,21,Hibernating
 142,1,12.069999999999999,2,1,1,21,Hibernating
 217,5,78.49000000000001,1,4,2,14,At Risk
-27,2,152.51,4,2,3,42,Potintial Loyalist
+27,2,152.51,4,2,3,42,Potential Loyalist
 90,1,71.43,2,1,2,21,Hibernating
 74,1,15.87,3,1,1,31,About to Sleep
-27,2,103.65000000000002,4,2,3,42,Potintial Loyalist
+27,2,103.65000000000002,4,2,3,42,Potential Loyalist
 50,1,22.979999999999997,3,1,1,31,About to Sleep
 9,7,592.1800000000001,5,5,5,55,VIP
 286,1,13.17,1,1,1,11,Hibernating
 23,4,204.69,4,4,4,44,Loyal Customer
 99,2,99.67,2,2,3,22,Hibernating
-34,3,114.78,4,3,3,43,Potintial Loyalist
+34,3,114.78,4,3,3,43,Potential Loyalist
 23,5,278.34,4,4,4,44,Loyal Customer
-27,2,118.81000000000002,4,2,3,42,Potintial Loyalist
+27,2,118.81000000000002,4,2,3,42,Potential Loyalist
 218,1,70.61,1,1,2,11,Hibernating
 64,2,282.02000000000004,3,2,4,32,About to Sleep
 15,13,442.12,5,5,5,55,VIP
-16,3,385.47,5,3,5,53,Potintial Loyalist
-41,2,114.51999999999998,4,2,3,42,Potintial Loyalist
+16,3,385.47,5,3,5,53,Potential Loyalist
+41,2,114.51999999999998,4,2,3,42,Potential Loyalist
 63,4,425.93,3,4,5,34,Loyal Customer
-32,2,127.6,4,2,3,42,Potintial Loyalist
+32,2,127.6,4,2,3,42,Potential Loyalist
 161,2,66.82000000000001,2,2,2,22,Hibernating
 20,5,181.17999999999995,5,4,4,54,VIP
 146,1,42.62,2,1,2,21,Hibernating
@@ -154,7 +154,7 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 23,6,75.34,4,4,2,44,Loyal Customer
 13,12,239.55999999999995,5,5,4,55,VIP
 46,1,15.0,3,1,1,31,About to Sleep
-18,3,116.03,5,3,3,53,Potintial Loyalist
+18,3,116.03,5,3,3,53,Potential Loyalist
 46,1,24.349999999999994,3,1,1,31,About to Sleep
 16,6,371.45,5,4,5,54,VIP
 30,5,424.53999999999996,4,4,5,44,Loyal Customer
@@ -164,22 +164,22 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 7,16,674.41,5,5,5,55,VIP
 58,6,357.99,3,4,4,34,Loyal Customer
 151,2,165.09000000000003,2,2,3,22,Hibernating
-27,2,82.95,4,2,2,42,Potintial Loyalist
+27,2,82.95,4,2,2,42,Potential Loyalist
 98,5,432.41999999999996,2,4,5,24,At Risk
 162,2,41.84,2,2,1,22,Hibernating
-24,3,524.51,4,3,5,43,Potintial Loyalist
+24,3,524.51,4,3,5,43,Potential Loyalist
 190,1,25.55,1,1,1,11,Hibernating
-34,2,182.04999999999998,4,2,4,42,Potintial Loyalist
+34,2,182.04999999999998,4,2,4,42,Potential Loyalist
 20,4,509.43999999999994,5,4,5,54,VIP
 281,1,22.0,1,1,1,11,Hibernating
 76,2,97.99000000000001,3,2,3,32,About to Sleep
-27,3,29.850000000000005,4,3,1,43,Potintial Loyalist
+27,3,29.850000000000005,4,3,1,43,Potential Loyalist
 72,3,255.42000000000002,3,3,4,33,Need Attention
 51,4,156.79999999999998,3,4,3,34,Loyal Customer
 9,24,1272.18,5,5,5,55,VIP
 79,3,137.51999999999998,2,3,3,23,At Risk
 24,5,129.58,4,4,3,44,Loyal Customer
-20,3,41.00000000000001,5,3,1,53,Potintial Loyalist
+20,3,41.00000000000001,5,3,1,53,Potential Loyalist
 76,1,15.0,3,1,1,31,About to Sleep
 168,1,125.17999999999999,2,1,3,21,Hibernating
 65,1,69.85000000000002,3,1,2,31,About to Sleep
@@ -191,7 +191,7 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 59,2,27.150000000000002,3,2,1,32,About to Sleep
 36,1,85.35,4,1,2,41,Promising
 20,5,1094.7800000000002,5,4,5,54,VIP
-27,2,91.21000000000001,4,2,3,42,Potintial Loyalist
+27,2,91.21000000000001,4,2,3,42,Potential Loyalist
 248,1,116.941,1,1,3,11,Hibernating
 237,1,61.70000000000001,1,1,2,11,Hibernating
 43,1,78.35,3,1,2,31,About to Sleep
@@ -206,7 +206,7 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 122,1,284.92999999999995,2,1,4,21,Hibernating
 62,1,19.55,3,1,1,31,About to Sleep
 279,1,40.60000000000001,1,1,1,11,Hibernating
-38,3,134.39999999999998,4,3,3,43,Potintial Loyalist
+38,3,134.39999999999998,4,3,3,43,Potential Loyalist
 63,1,78.92,3,1,2,31,About to Sleep
 170,3,124.56000000000002,2,3,3,23,At Risk
 76,2,81.39,3,2,2,32,About to Sleep
@@ -222,18 +222,18 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 30,7,1040.73,4,5,5,45,Loyal Customer
 232,1,45.39,1,1,2,11,Hibernating
 11,5,357.30999999999995,5,4,4,54,VIP
-27,2,264.22999999999996,4,2,4,42,Potintial Loyalist
-25,3,165.65999999999997,4,3,3,43,Potintial Loyalist
-13,3,353.61999999999995,5,3,4,53,Potintial Loyalist
+27,2,264.22999999999996,4,2,4,42,Potential Loyalist
+25,3,165.65999999999997,4,3,3,43,Potential Loyalist
+13,3,353.61999999999995,5,3,4,53,Potential Loyalist
 29,4,56.53,4,4,2,44,Loyal Customer
 84,3,165.07999999999996,2,3,3,23,At Risk
 25,1,41.52,4,1,1,41,Promising
 163,1,194.09999999999997,2,1,4,21,Hibernating
 84,4,391.74000000000007,2,4,5,24,At Risk
-31,3,462.3599999999999,4,3,5,43,Potintial Loyalist
-16,2,50.150000000000006,5,2,2,52,Potintial Loyalist
+31,3,462.3599999999999,4,3,5,43,Potential Loyalist
+16,2,50.150000000000006,5,2,2,52,Potential Loyalist
 14,1,25.45,5,1,1,51,New Customer
-27,2,221.7,4,2,4,42,Potintial Loyalist
+27,2,221.7,4,2,4,42,Potential Loyalist
 175,1,25.53000000000001,2,1,1,21,Hibernating
 267,1,114.06,1,1,3,11,Hibernating
 101,4,340.81000000000006,2,4,4,24,At Risk
@@ -250,17 +250,17 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 106,1,93.64999999999999,2,1,3,21,Hibernating
 11,1,28.99,5,1,1,51,New Customer
 114,6,178.68,2,4,4,24,At Risk
-8,3,324.03,5,3,4,53,Potintial Loyalist
+8,3,324.03,5,3,4,53,Potential Loyalist
 17,1,90.08000000000001,5,1,2,51,New Customer
 92,1,30.080000000000002,2,1,1,21,Hibernating
 98,1,35.75,2,1,1,21,Hibernating
 127,1,56.85000000000001,2,1,2,21,Hibernating
 206,1,10.66,1,1,1,11,Hibernating
 177,1,23.8,2,1,1,21,Hibernating
-30,2,51.85000000000001,4,2,2,42,Potintial Loyalist
+30,2,51.85000000000001,4,2,2,42,Potential Loyalist
 309,1,2.12,1,1,1,11,Hibernating
 99,1,65.00000000000001,2,1,2,21,Hibernating
-38,3,166.96999999999997,4,3,3,43,Potintial Loyalist
+38,3,166.96999999999997,4,3,3,43,Potential Loyalist
 13,7,329.97,5,5,4,55,VIP
 240,1,60.739999999999995,1,1,2,11,Hibernating
 16,6,347.3299999999999,5,4,4,54,VIP
@@ -273,9 +273,9 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 52,1,66.48,3,1,2,31,About to Sleep
 15,5,132.76999999999998,5,4,3,54,VIP
 176,1,72.79,2,1,2,21,Hibernating
-13,2,56.05,5,2,2,52,Potintial Loyalist
+13,2,56.05,5,2,2,52,Potential Loyalist
 270,1,26.7,1,1,1,11,Hibernating
-7,2,103.17000000000002,5,2,3,52,Potintial Loyalist
+7,2,103.17000000000002,5,2,3,52,Potential Loyalist
 63,1,15.77,3,1,1,31,About to Sleep
 171,1,25.599999999999998,2,1,1,21,Hibernating
 112,2,74.46000000000001,2,2,2,22,Hibernating
@@ -286,12 +286,12 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 23,4,175.75,4,4,4,44,Loyal Customer
 77,3,136.80999999999997,2,3,3,23,At Risk
 25,1,46.84999999999999,4,1,2,41,Promising
-10,3,65.85000000000001,5,3,2,53,Potintial Loyalist
+10,3,65.85000000000001,5,3,2,53,Potential Loyalist
 207,2,269.19,1,2,4,12,Hibernating
 176,2,62.129999999999995,2,2,2,22,Hibernating
-20,2,60.0,5,2,2,52,Potintial Loyalist
+20,2,60.0,5,2,2,52,Potential Loyalist
 143,3,83.35,2,3,2,23,At Risk
-41,2,62.389999999999986,4,2,2,42,Potintial Loyalist
+41,2,62.389999999999986,4,2,2,42,Potential Loyalist
 100,1,62.1,2,1,2,21,Hibernating
 39,7,283.42999999999995,4,5,4,45,Loyal Customer
 253,1,16.29,1,1,1,11,Hibernating
@@ -326,43 +326,43 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 67,2,363.43,3,2,5,32,About to Sleep
 21,5,177.4,5,4,4,54,VIP
 150,1,1.16,2,1,1,21,Hibernating
-20,2,266.76,5,2,4,52,Potintial Loyalist
+20,2,266.76,5,2,4,52,Potential Loyalist
 116,2,118.11999999999999,2,2,3,22,Hibernating
 39,6,731.6300000000001,4,4,5,44,Loyal Customer
-15,3,109.00000000000001,5,3,3,53,Potintial Loyalist
+15,3,109.00000000000001,5,3,3,53,Potential Loyalist
 323,1,95.32,1,1,3,11,Hibernating
-17,3,281.53000000000003,5,3,4,53,Potintial Loyalist
+17,3,281.53000000000003,5,3,4,53,Potential Loyalist
 81,1,24.369999999999997,2,1,1,21,Hibernating
 7,11,962.07,5,5,5,55,VIP
-39,2,104.17999999999999,4,2,3,42,Potintial Loyalist
-27,2,147.72,4,2,3,42,Potintial Loyalist
-36,2,198.83,4,2,4,42,Potintial Loyalist
+39,2,104.17999999999999,4,2,3,42,Potential Loyalist
+27,2,147.72,4,2,3,42,Potential Loyalist
+36,2,198.83,4,2,4,42,Potential Loyalist
 43,8,250.80000000000004,3,5,4,35,Loyal Customer
-23,2,148.42,4,2,3,42,Potintial Loyalist
+23,2,148.42,4,2,3,42,Potential Loyalist
 25,1,61.650000000000006,4,1,2,41,Promising
 23,4,127.33000000000001,4,4,3,44,Loyal Customer
 29,1,102.04000000000002,4,1,3,41,Promising
 154,3,1.18,2,3,1,23,At Risk
 38,1,59.58,4,1,2,41,Promising
 217,1,98.35,1,1,3,11,Hibernating
-23,2,42.050000000000004,4,2,1,42,Potintial Loyalist
+23,2,42.050000000000004,4,2,1,42,Potential Loyalist
 301,1,63.06,1,1,2,11,Hibernating
 55,1,69.19999999999999,3,1,2,31,About to Sleep
 64,1,47.019999999999996,3,1,2,31,About to Sleep
 70,1,93.59,3,1,3,31,About to Sleep
 218,2,181.07999999999998,1,2,4,12,Hibernating
-37,2,105.26,4,2,3,42,Potintial Loyalist
+37,2,105.26,4,2,3,42,Potential Loyalist
 66,3,168.7,3,3,3,33,Need Attention
 21,5,103.97000000000001,5,4,3,54,VIP
 193,1,672.3500000000001,1,1,5,11,Hibernating
 10,8,131.83999999999997,5,5,3,55,VIP
 42,1,9.549999999999999,4,1,1,41,Promising
-14,3,256.97,5,3,4,53,Potintial Loyalist
+14,3,256.97,5,3,4,53,Potential Loyalist
 84,3,297.97,2,3,4,23,At Risk
 42,4,146.05,4,4,3,44,Loyal Customer
 213,3,77.5,1,3,2,13,At Risk
 8,39,1827.1,5,5,5,55,VIP
-32,2,133.54999999999998,4,2,3,42,Potintial Loyalist
+32,2,133.54999999999998,4,2,3,42,Potential Loyalist
 35,8,86.28,4,5,2,45,Loyal Customer
 234,1,1.89,1,1,1,11,Hibernating
 53,4,644.49,3,4,5,34,Loyal Customer
@@ -388,13 +388,13 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 280,1,31.15,1,1,1,11,Hibernating
 326,3,42.29,1,3,2,13,At Risk
 183,5,887.0500000000001,1,4,5,14,At Risk
-42,2,211.59,4,2,4,42,Potintial Loyalist
+42,2,211.59,4,2,4,42,Potential Loyalist
 126,1,14.450000000000001,2,1,1,21,Hibernating
 55,4,143.48999999999998,3,4,3,34,Loyal Customer
 21,1,65.05,5,1,2,51,New Customer
 7,5,313.94,5,4,4,54,VIP
 79,1,94.17,2,1,3,21,Hibernating
-13,2,174.91,5,2,4,52,Potintial Loyalist
+13,2,174.91,5,2,4,52,Potential Loyalist
 244,1,22.95,1,1,1,11,Hibernating
 22,6,475.86,4,4,5,44,Loyal Customer
 8,32,301.4600000000001,5,5,4,55,VIP
@@ -425,9 +425,9 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 28,18,1082.2000000000003,4,5,5,45,Loyal Customer
 73,2,116.12,3,2,3,32,About to Sleep
 221,1,65.95,1,1,2,11,Hibernating
-39,2,58.44000000000001,4,2,2,42,Potintial Loyalist
+39,2,58.44000000000001,4,2,2,42,Potential Loyalist
 314,1,7.8,1,1,1,11,Hibernating
-16,2,21.410000000000004,5,2,1,52,Potintial Loyalist
+16,2,21.410000000000004,5,2,1,52,Potential Loyalist
 14,1,12.65,5,1,1,51,New Customer
 71,3,185.07,3,3,4,33,Need Attention
 13,17,985.94,5,5,5,55,VIP
@@ -442,12 +442,12 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 112,2,145.67000000000002,2,2,3,22,Hibernating
 373,1,26.589999999999996,1,1,1,11,Hibernating
 130,4,62.980000000000004,2,4,2,24,At Risk
-16,2,12.55,5,2,1,52,Potintial Loyalist
+16,2,12.55,5,2,1,52,Potential Loyalist
 10,1,184.32999999999998,5,1,4,51,New Customer
 49,5,1016.37,3,4,5,34,Loyal Customer
 34,7,420.46000000000004,4,5,5,45,Loyal Customer
 71,1,4.05,3,1,1,31,About to Sleep
-11,2,50.51,5,2,2,52,Potintial Loyalist
+11,2,50.51,5,2,2,52,Potential Loyalist
 73,1,34.339999999999996,3,1,1,31,About to Sleep
 326,1,57.95,1,1,2,11,Hibernating
 41,9,575.74,4,5,5,45,Loyal Customer
@@ -459,7 +459,7 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 98,1,64.44,2,1,2,21,Hibernating
 15,17,1082.66,5,5,5,55,VIP
 78,5,260.71,2,4,4,24,At Risk
-31,2,25.790000000000003,4,2,1,42,Potintial Loyalist
+31,2,25.790000000000003,4,2,1,42,Potential Loyalist
 8,18,1704.12,5,5,5,55,VIP
 220,1,20.2,1,1,1,11,Hibernating
 62,6,801.3800000000001,3,4,5,34,Loyal Customer
@@ -495,7 +495,7 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 371,1,31.810000000000002,1,1,1,11,Hibernating
 56,7,425.05000000000007,3,5,5,35,Loyal Customer
 15,48,2375.4300000000003,5,5,5,55,VIP
-10,2,10.280000000000001,5,2,1,52,Potintial Loyalist
+10,2,10.280000000000001,5,2,1,52,Potential Loyalist
 30,17,2137.63,4,5,5,45,Loyal Customer
 140,3,107.64,2,3,3,23,At Risk
 7,14,581.8500000000001,5,5,5,55,VIP
@@ -503,7 +503,7 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 57,3,21.95,3,3,1,33,Need Attention
 55,1,20.4,3,1,1,31,About to Sleep
 55,5,231.3,3,4,4,34,Loyal Customer
-14,2,48.91,5,2,2,52,Potintial Loyalist
+14,2,48.91,5,2,2,52,Potential Loyalist
 193,1,72.65,1,1,2,11,Hibernating
 79,5,492.1900000000001,2,4,5,24,At Risk
 360,1,23.659999999999997,1,1,1,11,Hibernating
@@ -526,9 +526,9 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 133,1,54.25,2,1,2,21,Hibernating
 17,8,553.23,5,5,5,55,VIP
 28,8,1770.6099999999997,4,5,5,45,Loyal Customer
-14,2,124.51,5,2,3,52,Potintial Loyalist
+14,2,124.51,5,2,3,52,Potential Loyalist
 79,1,231.50999999999996,2,1,4,21,Hibernating
-8,3,216.26,5,3,4,53,Potintial Loyalist
+8,3,216.26,5,3,4,53,Potential Loyalist
 27,12,624.26,4,5,5,45,Loyal Customer
 226,1,62.75,1,1,2,11,Hibernating
 73,1,9.25,3,1,1,31,About to Sleep
@@ -537,9 +537,9 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 126,3,54.75,2,3,2,23,At Risk
 267,2,362.19000000000005,1,2,5,12,Hibernating
 59,7,485.85,3,5,5,35,Loyal Customer
-41,3,301.23999999999995,4,3,4,43,Potintial Loyalist
-10,3,211.11999999999995,5,3,4,53,Potintial Loyalist
-27,3,291.51,4,3,4,43,Potintial Loyalist
+41,3,301.23999999999995,4,3,4,43,Potential Loyalist
+10,3,211.11999999999995,5,3,4,53,Potential Loyalist
+27,3,291.51,4,3,4,43,Potential Loyalist
 51,5,299.44999999999993,3,4,4,34,Loyal Customer
 30,1,43.99000000000001,4,1,2,41,Promising
 142,1,144.39000000000001,2,1,3,21,Hibernating
@@ -569,7 +569,7 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 56,1,99.35000000000001,3,1,3,31,About to Sleep
 85,3,230.64999999999998,2,3,4,23,At Risk
 251,1,47.24,1,1,2,11,Hibernating
-29,2,242.92999999999998,4,2,4,42,Potintial Loyalist
+29,2,242.92999999999998,4,2,4,42,Potential Loyalist
 8,25,175.83999999999997,5,5,4,55,VIP
 144,4,192.23000000000002,2,4,4,24,At Risk
 36,7,297.05000000000007,4,5,4,45,Loyal Customer
@@ -603,24 +603,24 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 230,3,8.3,1,3,1,13,At Risk
 102,2,46.72,2,2,2,22,Hibernating
 44,1,38.290000000000006,3,1,1,31,About to Sleep
-36,2,72.0,4,2,2,42,Potintial Loyalist
+36,2,72.0,4,2,2,42,Potential Loyalist
 72,2,78.43,3,2,2,32,About to Sleep
 18,1,10.09,5,1,1,51,New Customer
-15,2,73.15,5,2,2,52,Potintial Loyalist
+15,2,73.15,5,2,2,52,Potential Loyalist
 78,1,17.349999999999998,2,1,1,21,Hibernating
-21,2,17.099999999999998,5,2,1,52,Potintial Loyalist
+21,2,17.099999999999998,5,2,1,52,Potential Loyalist
 39,8,785.75,4,5,5,45,Loyal Customer
-31,2,158.94999999999996,4,2,3,42,Potintial Loyalist
+31,2,158.94999999999996,4,2,3,42,Potential Loyalist
 35,4,691.84,4,4,5,44,Loyal Customer
 84,1,106.09,2,1,3,21,Hibernating
 55,7,194.09,3,5,4,35,Loyal Customer
 8,18,727.03,5,5,5,55,VIP
 11,14,444.40999999999997,5,5,5,55,VIP
 51,1,71.45,3,1,2,31,About to Sleep
-25,2,102.78,4,2,3,42,Potintial Loyalist
-39,3,644.0400000000001,4,3,5,43,Potintial Loyalist
-22,3,18.95,4,3,1,43,Potintial Loyalist
-41,3,117.33999999999999,4,3,3,43,Potintial Loyalist
+25,2,102.78,4,2,3,42,Potential Loyalist
+39,3,644.0400000000001,4,3,5,43,Potential Loyalist
+22,3,18.95,4,3,1,43,Potential Loyalist
+41,3,117.33999999999999,4,3,3,43,Potential Loyalist
 21,4,379.43,5,4,5,54,VIP
 81,1,53.660000000000004,2,1,2,21,Hibernating
 48,1,39.60000000000001,3,1,1,31,About to Sleep
@@ -634,11 +634,11 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 57,3,113.51999999999998,3,3,3,33,Need Attention
 34,6,243.05,4,4,4,44,Loyal Customer
 288,1,93.43999999999998,1,1,3,11,Hibernating
-18,3,123.80999999999999,5,3,3,53,Potintial Loyalist
+18,3,123.80999999999999,5,3,3,53,Potential Loyalist
 65,5,87.33,3,4,2,34,Loyal Customer
-27,3,142.62000000000003,4,3,3,43,Potintial Loyalist
+27,3,142.62000000000003,4,3,3,43,Potential Loyalist
 65,2,248.77,3,2,4,32,About to Sleep
-30,2,173.64999999999995,4,2,4,42,Potintial Loyalist
+30,2,173.64999999999995,4,2,4,42,Potential Loyalist
 168,1,12.75,2,1,1,21,Hibernating
 42,1,17.54,4,1,1,41,Promising
 97,3,151.14,2,3,3,23,At Risk
@@ -647,7 +647,7 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 129,2,44.79,2,2,2,22,Hibernating
 238,1,43.6,1,1,2,11,Hibernating
 34,1,20.929999999999996,4,1,1,41,Promising
-22,2,74.58,4,2,2,42,Potintial Loyalist
+22,2,74.58,4,2,2,42,Potential Loyalist
 93,1,17.85,2,1,1,21,Hibernating
 121,7,256.81,2,5,4,25,Can't Loose
 331,1,43.300000000000004,1,1,2,11,Hibernating
@@ -671,7 +671,7 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 45,1,128.45,3,1,3,31,About to Sleep
 73,4,162.56,3,4,3,34,Loyal Customer
 114,2,150.89999999999998,2,2,3,22,Hibernating
-20,3,424.4,5,3,5,53,Potintial Loyalist
+20,3,424.4,5,3,5,53,Potential Loyalist
 51,1,97.59,3,1,3,31,About to Sleep
 73,1,42.2,3,1,1,31,About to Sleep
 56,2,51.120000000000005,3,2,2,32,About to Sleep
@@ -681,7 +681,7 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 57,3,552.15,3,3,5,33,Need Attention
 56,2,52.75,3,2,2,32,About to Sleep
 86,1,104.60000000000001,2,1,3,21,Hibernating
-38,2,263.38,4,2,4,42,Potintial Loyalist
+38,2,263.38,4,2,4,42,Potential Loyalist
 74,1,3.95,3,1,1,31,About to Sleep
 21,6,494.03,5,4,5,54,VIP
 70,4,167.19999999999996,3,4,3,34,Loyal Customer
@@ -692,13 +692,13 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 319,1,11.57,1,1,1,11,Hibernating
 225,4,285.97,1,4,4,14,At Risk
 21,11,624.8599999999999,5,5,5,55,VIP
-42,2,96.82000000000001,4,2,3,42,Potintial Loyalist
+42,2,96.82000000000001,4,2,3,42,Potential Loyalist
 79,5,255.88,2,4,4,24,At Risk
 90,1,68.55000000000001,2,1,2,21,Hibernating
 106,3,54.15000000000002,2,3,2,23,At Risk
 224,1,45.24000000000001,1,1,2,11,Hibernating
-14,3,156.13,5,3,3,53,Potintial Loyalist
-29,2,24.05,4,2,1,42,Potintial Loyalist
+14,3,156.13,5,3,3,53,Potential Loyalist
+29,2,24.05,4,2,1,42,Potential Loyalist
 123,3,65.20000000000002,2,3,2,23,At Risk
 69,2,22.19,3,2,1,32,About to Sleep
 220,3,213.14999999999998,1,3,4,13,At Risk
@@ -721,15 +721,15 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 48,6,312.52,3,4,4,34,Loyal Customer
 213,2,253.57999999999998,1,2,4,12,Hibernating
 143,4,110.97,2,4,3,24,At Risk
-27,3,52.92,4,3,2,43,Potintial Loyalist
-18,2,116.89999999999999,5,2,3,52,Potintial Loyalist
+27,3,52.92,4,3,2,43,Potential Loyalist
+18,2,116.89999999999999,5,2,3,52,Potential Loyalist
 189,1,4.65,1,1,1,11,Hibernating
-30,2,251.94000000000003,4,2,4,42,Potintial Loyalist
+30,2,251.94000000000003,4,2,4,42,Potential Loyalist
 65,7,190.14999999999998,3,5,4,35,Loyal Customer
 73,1,66.00999999999999,3,1,2,31,About to Sleep
 309,3,174.48,1,3,4,13,At Risk
 90,6,452.78000000000003,2,4,5,24,At Risk
-16,2,133.9,5,2,3,52,Potintial Loyalist
+16,2,133.9,5,2,3,52,Potential Loyalist
 268,1,13.790000000000001,1,1,1,11,Hibernating
 72,11,514.17,3,5,5,35,Loyal Customer
 15,8,1086.1599999999999,5,5,5,55,VIP
@@ -739,7 +739,7 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 283,1,34.190000000000005,1,1,1,11,Hibernating
 8,5,444.45,5,4,5,54,VIP
 330,2,14.04,1,2,1,12,Hibernating
-21,2,300.68,5,2,4,52,Potintial Loyalist
+21,2,300.68,5,2,4,52,Potential Loyalist
 266,2,166.39000000000001,1,2,3,12,Hibernating
 49,3,57.4,3,3,2,33,Need Attention
 52,4,148.48,3,4,3,34,Loyal Customer
@@ -758,7 +758,7 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 58,2,147.17999999999998,3,2,3,32,About to Sleep
 16,6,416.6400000000001,5,4,5,54,VIP
 269,1,27.55,1,1,1,11,Hibernating
-25,2,137.9,4,2,3,42,Potintial Loyalist
+25,2,137.9,4,2,3,42,Potential Loyalist
 18,10,411.21000000000004,5,5,5,55,VIP
 147,2,70.27000000000001,2,2,2,22,Hibernating
 9,11,1056.3700000000001,5,5,5,55,VIP
@@ -776,14 +776,14 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 149,1,5.0,2,1,1,21,Hibernating
 17,7,591.1,5,5,5,55,VIP
 318,1,19.04,1,1,1,11,Hibernating
-29,3,59.66,4,3,2,43,Potintial Loyalist
+29,3,59.66,4,3,2,43,Potential Loyalist
 83,2,76.81,2,2,2,22,Hibernating
 70,3,69.2,3,3,2,33,Need Attention
 91,2,70.26,2,2,2,22,Hibernating
 59,1,71.35,3,1,2,31,About to Sleep
 84,1,32.04,2,1,1,21,Hibernating
 13,6,234.20999999999998,5,4,4,54,VIP
-8,2,226.14999999999998,5,2,4,52,Potintial Loyalist
+8,2,226.14999999999998,5,2,4,52,Potential Loyalist
 380,2,40.99,1,2,1,12,Hibernating
 60,5,688.3,3,4,5,34,Loyal Customer
 276,1,36.129999999999995,1,1,1,11,Hibernating
@@ -798,8 +798,8 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 18,17,1823.9,5,5,5,55,VIP
 276,2,216.18999999999997,1,2,4,12,Hibernating
 53,4,392.53,3,4,5,34,Loyal Customer
-32,2,135.90999999999997,4,2,3,42,Potintial Loyalist
-24,2,129.01,4,2,3,42,Potintial Loyalist
+32,2,135.90999999999997,4,2,3,42,Potential Loyalist
+24,2,129.01,4,2,3,42,Potential Loyalist
 50,1,127.79,3,1,3,31,About to Sleep
 113,1,164.66999999999996,2,1,3,21,Hibernating
 29,1,7.300000000000001,4,1,1,41,Promising
@@ -817,7 +817,7 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 53,1,50.83,3,1,2,31,About to Sleep
 76,3,332.3599999999999,3,3,4,33,Need Attention
 70,4,503.28,3,4,5,34,Loyal Customer
-9,3,298.84000000000003,5,3,4,53,Potintial Loyalist
+9,3,298.84000000000003,5,3,4,53,Potential Loyalist
 24,14,682.75,4,5,5,45,Loyal Customer
 21,4,170.89999999999998,5,4,3,54,VIP
 53,1,197.8,3,1,4,31,About to Sleep
@@ -827,7 +827,7 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 11,4,232.66,5,4,4,54,VIP
 48,1,6.199999999999999,3,1,1,31,About to Sleep
 56,1,48.39000000000001,3,1,2,31,About to Sleep
-31,2,31.490000000000002,4,2,1,42,Potintial Loyalist
+31,2,31.490000000000002,4,2,1,42,Potential Loyalist
 321,1,122.081,1,1,3,11,Hibernating
 140,2,93.66,2,2,3,22,Hibernating
 172,3,55.92000000000001,2,3,2,23,At Risk
@@ -839,14 +839,14 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 29,9,984.53,4,5,5,45,Loyal Customer
 127,1,40.949999999999996,2,1,1,21,Hibernating
 158,3,435.9599999999999,2,3,5,23,At Risk
-42,2,37.91,4,2,1,42,Potintial Loyalist
+42,2,37.91,4,2,1,42,Potential Loyalist
 137,4,142.14,2,4,3,24,At Risk
 8,14,343.68,5,5,4,55,VIP
 276,1,56.45000000000002,1,1,2,11,Hibernating
-34,2,221.20999999999998,4,2,4,42,Potintial Loyalist
-23,3,120.52,4,3,3,43,Potintial Loyalist
+34,2,221.20999999999998,4,2,4,42,Potential Loyalist
+23,3,120.52,4,3,3,43,Potential Loyalist
 300,1,98.86,1,1,3,11,Hibernating
-29,2,101.53999999999999,4,2,3,42,Potintial Loyalist
+29,2,101.53999999999999,4,2,3,42,Potential Loyalist
 44,1,97.34,3,1,3,31,About to Sleep
 182,1,77.05000000000001,1,1,2,11,Hibernating
 235,1,16.55,1,1,1,11,Hibernating
@@ -854,7 +854,7 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 16,7,399.84000000000003,5,5,5,55,VIP
 274,1,169.98,1,1,3,11,Hibernating
 94,5,234.35000000000002,2,4,4,24,At Risk
-35,2,261.34,4,2,4,42,Potintial Loyalist
+35,2,261.34,4,2,4,42,Potential Loyalist
 41,7,1240.83,4,5,5,45,Loyal Customer
 210,2,72.0,1,2,2,12,Hibernating
 50,5,232.10999999999999,3,4,4,34,Loyal Customer
@@ -868,7 +868,7 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 130,2,113.89,2,2,3,22,Hibernating
 318,1,66.17,1,1,2,11,Hibernating
 55,2,4.2,3,2,1,32,About to Sleep
-36,3,257.99,4,3,4,43,Potintial Loyalist
+36,3,257.99,4,3,4,43,Potential Loyalist
 18,10,934.98,5,5,5,55,VIP
 84,3,222.48000000000002,2,3,4,23,At Risk
 78,1,36.47,2,1,1,21,Hibernating
@@ -876,13 +876,13 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 282,4,76.73,1,4,2,14,At Risk
 74,3,116.29,3,3,3,33,Need Attention
 24,7,296.15999999999997,4,5,4,45,Loyal Customer
-41,2,255.54999999999995,4,2,4,42,Potintial Loyalist
+41,2,255.54999999999995,4,2,4,42,Potential Loyalist
 136,4,192.71999999999997,2,4,4,24,At Risk
 42,8,307.82,4,5,4,45,Loyal Customer
 8,5,338.42,5,4,4,54,VIP
 16,4,244.39999999999998,5,4,4,54,VIP
 23,1,53.5,4,1,2,41,Promising
-10,3,244.83999999999997,5,3,4,53,Potintial Loyalist
+10,3,244.83999999999997,5,3,4,53,Potential Loyalist
 129,1,25.049999999999997,2,1,1,21,Hibernating
 22,5,316.5,4,4,4,44,Loyal Customer
 16,4,213.84999999999997,5,4,4,54,VIP
@@ -893,7 +893,7 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 245,1,68.77,1,1,2,11,Hibernating
 27,8,333.09,4,5,4,45,Loyal Customer
 22,4,287.0799999999999,4,4,4,44,Loyal Customer
-28,3,197.55999999999995,4,3,4,43,Potintial Loyalist
+28,3,197.55999999999995,4,3,4,43,Potential Loyalist
 62,2,29.250000000000004,3,2,1,32,About to Sleep
 25,14,1176.3899999999999,4,5,5,45,Loyal Customer
 49,1,6.25,3,1,1,31,About to Sleep
@@ -905,8 +905,8 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 135,3,148.01999999999995,2,3,3,23,At Risk
 113,8,1293.08,2,5,5,25,Can't Loose
 99,1,17.300000000000004,2,1,1,21,Hibernating
-32,3,191.63,4,3,4,43,Potintial Loyalist
-22,2,41.13000000000001,4,2,1,42,Potintial Loyalist
+32,3,191.63,4,3,4,43,Potential Loyalist
+22,2,41.13000000000001,4,2,1,42,Potential Loyalist
 277,1,22.75,1,1,1,11,Hibernating
 86,1,1.95,2,1,1,21,Hibernating
 38,1,113.61,4,1,3,41,Promising
@@ -949,7 +949,7 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 57,4,262.2,3,4,4,34,Loyal Customer
 188,1,33.60000000000001,1,1,1,11,Hibernating
 55,1,31.17,3,1,1,31,About to Sleep
-15,2,23.45,5,2,1,52,Potintial Loyalist
+15,2,23.45,5,2,1,52,Potential Loyalist
 24,4,52.419999999999995,4,4,2,44,Loyal Customer
 36,5,177.70999999999995,4,4,4,44,Loyal Customer
 169,1,96.2,2,1,3,21,Hibernating
@@ -971,7 +971,7 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 78,2,116.66000000000001,2,2,3,22,Hibernating
 175,5,284.05,2,4,4,24,At Risk
 42,5,1021.25,4,4,5,44,Loyal Customer
-38,2,50.120000000000005,4,2,2,42,Potintial Loyalist
+38,2,50.120000000000005,4,2,2,42,Potential Loyalist
 232,1,196.87999999999997,1,1,4,11,Hibernating
 15,24,247.86,5,5,4,55,VIP
 133,3,138.92,2,3,3,23,At Risk
@@ -997,8 +997,8 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 16,16,1047.21,5,5,5,55,VIP
 73,2,163.85999999999999,3,2,3,32,About to Sleep
 77,2,82.24,2,2,2,22,Hibernating
-9,3,119.9,5,3,3,53,Potintial Loyalist
-36,2,62.95000000000001,4,2,2,42,Potintial Loyalist
+9,3,119.9,5,3,3,53,Potential Loyalist
+36,2,62.95000000000001,4,2,2,42,Potential Loyalist
 169,4,212.00999999999996,2,4,4,24,At Risk
 169,1,74.45,2,1,2,21,Hibernating
 48,4,343.52,3,4,4,34,Loyal Customer
@@ -1016,7 +1016,7 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 46,1,65.24,3,1,2,31,About to Sleep
 218,2,73.5,1,2,2,12,Hibernating
 161,3,90.6,2,3,2,23,At Risk
-41,2,125.06,4,2,3,42,Potintial Loyalist
+41,2,125.06,4,2,3,42,Potential Loyalist
 11,7,906.26,5,5,5,55,VIP
 128,1,39.45,2,1,1,21,Hibernating
 58,1,114.97999999999999,3,1,3,31,About to Sleep
@@ -1024,7 +1024,7 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 23,1,70.5,4,1,2,41,Promising
 41,1,61.769999999999996,4,1,2,41,Promising
 361,1,96.74000000000001,1,1,3,11,Hibernating
-39,3,482.80999999999995,4,3,5,43,Potintial Loyalist
+39,3,482.80999999999995,4,3,5,43,Potential Loyalist
 21,5,189.95,5,4,4,54,VIP
 252,1,41.150000000000006,1,1,1,11,Hibernating
 7,15,275.09,5,5,4,55,VIP
@@ -1052,13 +1052,13 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 46,5,537.01,3,4,5,34,Loyal Customer
 24,5,185.51999999999995,4,4,4,44,Loyal Customer
 16,4,185.70999999999995,5,4,4,54,VIP
-20,3,235.35,5,3,4,53,Potintial Loyalist
+20,3,235.35,5,3,4,53,Potential Loyalist
 217,1,2.86,1,1,1,11,Hibernating
 157,2,220.11,2,2,4,22,Hibernating
 267,1,68.15,1,1,2,11,Hibernating
 80,2,98.70000000000002,2,2,3,22,Hibernating
 53,1,62.01,3,1,2,31,About to Sleep
-31,3,141.69,4,3,3,43,Potintial Loyalist
+31,3,141.69,4,3,3,43,Potential Loyalist
 16,10,532.25,5,5,5,55,VIP
 366,1,21.880000000000003,1,1,1,11,Hibernating
 42,1,31.799999999999997,4,1,1,41,Promising
@@ -1078,30 +1078,30 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 58,9,157.23999999999998,3,5,3,35,Loyal Customer
 34,9,508.0,4,5,5,45,Loyal Customer
 238,3,308.08,1,3,4,13,At Risk
-24,2,70.51,4,2,2,42,Potintial Loyalist
+24,2,70.51,4,2,2,42,Potential Loyalist
 44,1,117.70999999999998,3,1,3,31,About to Sleep
 73,4,143.45,3,4,3,34,Loyal Customer
 14,9,120.96000000000001,5,5,3,55,VIP
 219,1,66.08000000000001,1,1,2,11,Hibernating
 295,1,63.68,1,1,2,11,Hibernating
-36,2,171.85,4,2,3,42,Potintial Loyalist
-18,3,88.99000000000001,5,3,2,53,Potintial Loyalist
+36,2,171.85,4,2,3,42,Potential Loyalist
+18,3,88.99000000000001,5,3,2,53,Potential Loyalist
 53,3,72.58999999999999,3,3,2,33,Need Attention
 22,12,973.75,4,5,5,45,Loyal Customer
 17,1,155.52999999999997,5,1,3,51,New Customer
 59,3,141.5,3,3,3,33,Need Attention
 21,8,903.6100000000001,5,5,5,55,VIP
-41,3,180.1,4,3,4,43,Potintial Loyalist
+41,3,180.1,4,3,4,43,Potential Loyalist
 34,1,61.95000000000001,4,1,2,41,Promising
 77,1,58.85,2,1,2,21,Hibernating
 9,14,437.17999999999995,5,5,5,55,VIP
-29,2,69.18,4,2,2,42,Potintial Loyalist
+29,2,69.18,4,2,2,42,Potential Loyalist
 118,3,83.44999999999999,2,3,2,23,At Risk
 77,1,33.2,2,1,1,21,Hibernating
 38,1,20.9,4,1,1,41,Promising
 65,1,8.01,3,1,1,31,About to Sleep
 7,18,1076.13,5,5,5,55,VIP
-28,2,39.43000000000001,4,2,1,42,Potintial Loyalist
+28,2,39.43000000000001,4,2,1,42,Potential Loyalist
 65,6,256.31,3,4,4,34,Loyal Customer
 224,1,54.14000000000001,1,1,2,11,Hibernating
 35,6,745.6999999999999,4,4,5,44,Loyal Customer
@@ -1114,13 +1114,13 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 8,10,530.1800000000001,5,5,5,55,VIP
 8,8,149.68,5,5,3,55,VIP
 16,7,342.29999999999995,5,5,4,55,VIP
-21,2,88.33,5,2,2,52,Potintial Loyalist
-25,2,179.17999999999998,4,2,4,42,Potintial Loyalist
+21,2,88.33,5,2,2,52,Potential Loyalist
+25,2,179.17999999999998,4,2,4,42,Potential Loyalist
 106,3,50.05,2,3,2,23,At Risk
-22,2,15.6,4,2,1,42,Potintial Loyalist
+22,2,15.6,4,2,1,42,Potential Loyalist
 21,10,600.15,5,5,5,55,VIP
 21,9,342.42999999999995,5,5,4,55,VIP
-28,2,68.60000000000001,4,2,2,42,Potintial Loyalist
+28,2,68.60000000000001,4,2,2,42,Potential Loyalist
 161,3,183.59,2,3,4,23,At Risk
 88,3,99.0,2,3,3,23,At Risk
 16,17,727.0500000000001,5,5,5,55,VIP
@@ -1134,8 +1134,8 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 104,1,50.94,2,1,2,21,Hibernating
 207,2,69.95,1,2,2,12,Hibernating
 122,2,41.06,2,2,1,22,Hibernating
-22,2,137.75,4,2,3,42,Potintial Loyalist
-18,2,102.19,5,2,3,52,Potintial Loyalist
+22,2,137.75,4,2,3,42,Potential Loyalist
+18,2,102.19,5,2,3,52,Potential Loyalist
 38,7,846.8800000000001,4,5,5,45,Loyal Customer
 213,1,65.15,1,1,2,11,Hibernating
 287,1,33.75,1,1,1,11,Hibernating
@@ -1150,7 +1150,7 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 8,6,187.33,5,4,4,54,VIP
 48,4,229.2,3,4,4,34,Loyal Customer
 120,4,166.86000000000004,2,4,3,24,At Risk
-39,2,196.70999999999998,4,2,4,42,Potintial Loyalist
+39,2,196.70999999999998,4,2,4,42,Potential Loyalist
 217,1,16.19,1,1,1,11,Hibernating
 28,23,2054.91,4,5,5,45,Loyal Customer
 367,1,78.54,1,1,2,11,Hibernating
@@ -1162,7 +1162,7 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 29,9,1535.7799999999997,4,5,5,45,Loyal Customer
 8,15,468.3,5,5,5,55,VIP
 32,1,194.4,4,1,4,41,Promising
-39,2,4.55,4,2,1,42,Potintial Loyalist
+39,2,4.55,4,2,1,42,Potential Loyalist
 219,2,94.81,1,2,3,12,Hibernating
 23,5,354.15999999999997,4,4,4,44,Loyal Customer
 104,2,86.28,2,2,2,22,Hibernating
@@ -1171,7 +1171,7 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 16,11,604.3700000000001,5,5,5,55,VIP
 328,5,72.02,1,4,2,14,At Risk
 72,10,231.1,3,5,4,35,Loyal Customer
-31,3,180.08999999999997,4,3,4,43,Potintial Loyalist
+31,3,180.08999999999997,4,3,4,43,Potential Loyalist
 245,3,393.81,1,3,5,13,At Risk
 156,2,154.76999999999998,2,2,3,22,Hibernating
 326,1,165.35000000000002,1,1,3,11,Hibernating
@@ -1183,7 +1183,7 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 55,4,329.23999999999995,3,4,4,34,Loyal Customer
 11,9,1963.91,5,5,5,55,VIP
 34,1,73.58999999999997,4,1,2,41,Promising
-13,3,189.29999999999998,5,3,4,53,Potintial Loyalist
+13,3,189.29999999999998,5,3,4,53,Potential Loyalist
 154,1,5.85,2,1,1,21,Hibernating
 10,16,1799.2400000000002,5,5,5,55,VIP
 46,2,305.31,3,2,4,32,About to Sleep
@@ -1194,7 +1194,7 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 123,2,87.0,2,2,2,22,Hibernating
 17,9,675.86,5,5,5,55,VIP
 49,6,65.07000000000001,3,4,2,34,Loyal Customer
-31,3,264.83000000000004,4,3,4,43,Potintial Loyalist
+31,3,264.83000000000004,4,3,4,43,Potential Loyalist
 50,4,560.1400000000001,3,4,5,34,Loyal Customer
 379,1,8.95,1,1,1,11,Hibernating
 90,4,321.64000000000004,2,4,4,24,At Risk
@@ -1205,14 +1205,14 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 37,5,183.47999999999996,4,4,4,44,Loyal Customer
 143,2,48.230000000000004,2,2,2,22,Hibernating
 70,1,78.30000000000001,3,1,2,31,About to Sleep
-17,2,35.870000000000005,5,2,1,52,Potintial Loyalist
+17,2,35.870000000000005,5,2,1,52,Potential Loyalist
 48,3,63.18000000000001,3,3,2,33,Need Attention
 375,1,78.59,1,1,2,11,Hibernating
 86,1,60.27,2,1,2,21,Hibernating
-22,3,245.20999999999995,4,3,4,43,Potintial Loyalist
+22,3,245.20999999999995,4,3,4,43,Potential Loyalist
 193,1,33.85,1,1,1,11,Hibernating
 41,4,122.53,4,4,3,44,Loyal Customer
-17,3,291.21,5,3,4,53,Potintial Loyalist
+17,3,291.21,5,3,4,53,Potential Loyalist
 290,1,100.27000000000001,1,1,3,11,Hibernating
 375,1,41.8,1,1,1,11,Hibernating
 24,15,395.3399999999999,4,5,5,45,Loyal Customer
@@ -1220,7 +1220,7 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 42,5,301.32000000000005,4,4,4,44,Loyal Customer
 337,1,9.0,1,1,1,11,Hibernating
 132,3,98.30000000000001,2,3,3,23,At Risk
-15,2,105.61,5,2,3,52,Potintial Loyalist
+15,2,105.61,5,2,3,52,Potential Loyalist
 128,1,2.55,2,1,1,21,Hibernating
 179,2,30.450000000000003,2,2,1,22,Hibernating
 25,7,729.95,4,5,5,45,Loyal Customer
@@ -1231,7 +1231,7 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 125,1,15.43,2,1,1,21,Hibernating
 23,6,658.24,4,5,5,45,Loyal Customer
 13,82,7682.43,5,5,5,55,VIP
-31,3,114.24999999999999,4,3,3,43,Potintial Loyalist
+31,3,114.24999999999999,4,3,3,43,Potential Loyalist
 21,9,1133.8400000000001,5,5,5,55,VIP
 252,6,220.43,1,5,4,15,Can't Loose
 11,5,505.01,5,4,5,54,VIP
@@ -1240,12 +1240,12 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 106,4,262.7,2,4,4,24,At Risk
 62,2,45.35,3,2,2,32,About to Sleep
 72,2,225.84999999999994,3,2,4,32,About to Sleep
-17,3,339.5,5,3,4,53,Potintial Loyalist
+17,3,339.5,5,3,4,53,Potential Loyalist
 372,1,19.54,1,1,1,11,Hibernating
 247,3,240.73999999999998,1,3,4,13,At Risk
 283,2,20.48,1,2,1,12,Hibernating
 60,5,835.8100000000001,3,4,5,34,Loyal Customer
-9,2,56.09,5,2,2,52,Potintial Loyalist
+9,2,56.09,5,2,2,52,Potential Loyalist
 23,9,650.8999999999999,4,5,5,45,Loyal Customer
 14,9,316.23999999999995,5,5,4,55,VIP
 52,2,141.14999999999998,3,2,3,32,About to Sleep
@@ -1253,8 +1253,8 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 53,2,180.77,3,2,4,32,About to Sleep
 69,5,152.34999999999997,3,4,3,34,Loyal Customer
 115,1,38.4,2,1,1,21,Hibernating
-10,2,141.71,5,2,3,52,Potintial Loyalist
-36,2,17.7,4,2,1,42,Potintial Loyalist
+10,2,141.71,5,2,3,52,Potential Loyalist
+36,2,17.7,4,2,1,42,Potential Loyalist
 30,1,23.439999999999998,4,1,1,41,Promising
 38,1,56.55,4,1,2,41,Promising
 34,15,1124.25,4,5,5,45,Loyal Customer
@@ -1264,11 +1264,11 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 65,3,77.1,3,3,2,33,Need Attention
 259,1,83.25000000000001,1,1,2,11,Hibernating
 51,3,59.9,3,3,2,33,Need Attention
-23,3,138.43,4,3,3,43,Potintial Loyalist
+23,3,138.43,4,3,3,43,Potential Loyalist
 39,1,86.33999999999999,4,1,2,41,Promising
 64,3,499.98,3,3,5,33,Need Attention
 36,7,364.63,4,5,5,45,Loyal Customer
-30,2,124.67000000000002,4,2,3,42,Potintial Loyalist
+30,2,124.67000000000002,4,2,3,42,Potential Loyalist
 329,1,8.9,1,1,1,11,Hibernating
 193,1,59.620000000000005,1,1,2,11,Hibernating
 27,9,589.5899999999999,4,5,5,45,Loyal Customer
@@ -1293,7 +1293,7 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 107,3,128.05,2,3,3,23,At Risk
 140,4,157.55999999999997,2,4,3,24,At Risk
 14,4,114.51000000000002,5,4,3,54,VIP
-15,2,99.03000000000002,5,2,3,52,Potintial Loyalist
+15,2,99.03000000000002,5,2,3,52,Potential Loyalist
 304,2,24.64,1,2,1,12,Hibernating
 73,10,374.94000000000005,3,5,5,35,Loyal Customer
 65,1,30.85,3,1,1,31,About to Sleep
@@ -1342,7 +1342,7 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 58,3,115.03999999999999,3,3,3,33,Need Attention
 72,3,81.40000000000002,3,3,2,33,Need Attention
 49,2,32.35000000000001,3,2,1,32,About to Sleep
-21,2,244.18999999999994,5,2,4,52,Potintial Loyalist
+21,2,244.18999999999994,5,2,4,52,Potential Loyalist
 319,1,7.860000000000001,1,1,1,11,Hibernating
 15,5,388.95000000000005,5,4,5,54,VIP
 55,2,178.09999999999997,3,2,4,32,About to Sleep
@@ -1363,7 +1363,7 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 24,5,203.09999999999997,4,4,4,44,Loyal Customer
 17,8,899.4300000000001,5,5,5,55,VIP
 265,1,33.99,1,1,1,11,Hibernating
-23,2,110.65,4,2,3,42,Potintial Loyalist
+23,2,110.65,4,2,3,42,Potential Loyalist
 67,4,268.99,3,4,4,34,Loyal Customer
 178,1,35.23,2,1,1,21,Hibernating
 70,1,17.07,3,1,1,31,About to Sleep
@@ -1373,13 +1373,13 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 9,13,570.24,5,5,5,55,VIP
 67,3,231.39,3,3,4,33,Need Attention
 378,1,16.4,1,1,1,11,Hibernating
-22,2,125.19,4,2,3,42,Potintial Loyalist
+22,2,125.19,4,2,3,42,Potential Loyalist
 52,2,33.449999999999996,3,2,1,32,About to Sleep
-7,3,130.43,5,3,3,53,Potintial Loyalist
-31,2,39.79,4,2,1,42,Potintial Loyalist
+7,3,130.43,5,3,3,53,Potential Loyalist
+31,2,39.79,4,2,1,42,Potential Loyalist
 220,1,37.73,1,1,1,11,Hibernating
 44,2,27.42,3,2,1,32,About to Sleep
-36,2,100.08,4,2,3,42,Potintial Loyalist
+36,2,100.08,4,2,3,42,Potential Loyalist
 167,1,8.5,2,1,1,21,Hibernating
 284,2,76.1,1,2,2,12,Hibernating
 92,6,194.59,2,5,4,25,Can't Loose
@@ -1388,7 +1388,7 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 92,2,408.03999999999996,2,2,5,22,Hibernating
 325,1,70.74,1,1,2,11,Hibernating
 263,1,33.25,1,1,1,11,Hibernating
-35,2,260.64,4,2,4,42,Potintial Loyalist
+35,2,260.64,4,2,4,42,Potential Loyalist
 93,1,93.11,2,1,3,21,Hibernating
 32,1,304.14,4,1,4,41,Promising
 142,1,5.85,2,1,1,21,Hibernating
@@ -1409,15 +1409,15 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 11,8,266.32,5,5,4,55,VIP
 28,1,1.95,4,1,1,41,Promising
 113,4,41.629999999999995,2,4,1,24,At Risk
-22,3,96.42999999999999,4,3,3,43,Potintial Loyalist
-18,2,513.21,5,2,5,52,Potintial Loyalist
+22,3,96.42999999999999,4,3,3,43,Potential Loyalist
+18,2,513.21,5,2,5,52,Potential Loyalist
 66,1,48.74,3,1,2,31,About to Sleep
 52,2,178.99999999999997,3,2,4,32,About to Sleep
 16,1,46.5,5,1,2,51,New Customer
 21,10,2041.93,5,5,5,55,VIP
 29,1,263.46999999999997,4,1,4,41,Promising
 24,1,70.2,4,1,2,41,Promising
-38,3,183.54999999999998,4,3,4,43,Potintial Loyalist
+38,3,183.54999999999998,4,3,4,43,Potential Loyalist
 154,4,172.82999999999998,2,4,4,24,At Risk
 16,13,962.05,5,5,5,55,VIP
 79,1,26.57,2,1,1,21,Hibernating
@@ -1426,7 +1426,7 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 136,2,91.42,2,2,3,22,Hibernating
 45,1,53.27,3,1,2,31,About to Sleep
 153,3,136.95000000000002,2,3,3,23,At Risk
-21,3,189.04,5,3,4,53,Potintial Loyalist
+21,3,189.04,5,3,4,53,Potential Loyalist
 107,1,182.19999999999996,2,1,4,21,Hibernating
 143,1,1.25,2,1,1,21,Hibernating
 195,1,1.25,1,1,1,11,Hibernating
@@ -1435,7 +1435,7 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 7,9,368.41999999999996,5,5,5,55,VIP
 16,7,521.6100000000001,5,5,5,55,VIP
 56,5,668.9500000000002,3,4,5,34,Loyal Customer
-10,2,142.79,5,2,3,52,Potintial Loyalist
+10,2,142.79,5,2,3,52,Potential Loyalist
 98,1,13.540000000000001,2,1,1,21,Hibernating
 97,1,86.94999999999999,2,1,2,21,Hibernating
 28,1,56.68000000000001,4,1,2,41,Promising
@@ -1443,7 +1443,7 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 14,5,548.03,5,4,5,54,VIP
 21,4,112.83000000000001,5,4,3,54,VIP
 31,10,845.5899999999999,4,5,5,45,Loyal Customer
-37,2,215.29999999999995,4,2,4,42,Potintial Loyalist
+37,2,215.29999999999995,4,2,4,42,Potential Loyalist
 18,5,362.14,5,4,5,54,VIP
 74,4,106.89000000000001,3,4,3,34,Loyal Customer
 22,1,61.28,4,1,2,41,Promising
@@ -1464,14 +1464,14 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 221,1,336.30000000000007,1,1,4,11,Hibernating
 50,1,15.7,3,1,1,31,About to Sleep
 24,4,128.76999999999998,4,4,3,44,Loyal Customer
-7,3,373.37,5,3,5,53,Potintial Loyalist
+7,3,373.37,5,3,5,53,Potential Loyalist
 44,3,126.62,3,3,3,33,Need Attention
 49,3,288.39000000000004,3,3,4,33,Need Attention
 21,5,282.73999999999995,5,4,4,54,VIP
 378,1,5.0,1,1,1,11,Hibernating
 43,3,81.50999999999999,3,3,2,33,Need Attention
 153,2,11.7,2,2,1,22,Hibernating
-10,2,103.12,5,2,3,52,Potintial Loyalist
+10,2,103.12,5,2,3,52,Potential Loyalist
 79,3,140.6,2,3,3,23,At Risk
 48,2,152.87,3,2,3,32,About to Sleep
 14,1,16.6,5,1,1,51,New Customer
@@ -1484,11 +1484,11 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 43,5,481.73,3,4,5,34,Loyal Customer
 16,4,276.1500000000001,5,4,4,54,VIP
 46,11,2392.4100000000003,3,5,5,35,Loyal Customer
-11,3,591.8199999999999,5,3,5,53,Potintial Loyalist
+11,3,591.8199999999999,5,3,5,53,Potential Loyalist
 20,5,531.1600000000001,5,4,5,54,VIP
-18,3,411.93,5,3,5,53,Potintial Loyalist
+18,3,411.93,5,3,5,53,Potential Loyalist
 176,1,87.75,2,1,2,21,Hibernating
-17,3,150.7,5,3,3,53,Potintial Loyalist
+17,3,150.7,5,3,3,53,Potential Loyalist
 25,5,127.21999999999997,4,4,3,44,Loyal Customer
 78,3,13.84,2,3,1,23,At Risk
 78,6,607.51,2,5,5,25,Can't Loose
@@ -1517,9 +1517,9 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 18,6,906.45,5,5,5,55,VIP
 212,6,319.52,1,5,4,15,Can't Loose
 62,3,238.02999999999994,3,3,4,33,Need Attention
-30,2,136.06,4,3,3,43,Potintial Loyalist
+30,2,136.06,4,3,3,43,Potential Loyalist
 53,5,202.13999999999996,3,4,4,34,Loyal Customer
-22,2,206.82999999999998,4,3,4,43,Potintial Loyalist
+22,2,206.82999999999998,4,3,4,43,Potential Loyalist
 53,4,343.97999999999996,3,4,4,34,Loyal Customer
 23,4,389.21000000000004,4,4,5,44,Loyal Customer
 238,3,540.89,1,3,5,13,At Risk
@@ -1540,11 +1540,11 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 374,1,30.45,1,1,1,11,Hibernating
 130,1,233.76999999999998,2,1,4,21,Hibernating
 14,1,2.95,5,1,1,51,New Customer
-36,3,159.09,4,3,3,43,Potintial Loyalist
+36,3,159.09,4,3,3,43,Potential Loyalist
 74,1,49.8,3,1,2,31,About to Sleep
 160,1,4.95,2,1,1,21,Hibernating
 186,1,141.05,1,1,3,11,Hibernating
-25,3,443.51,4,3,5,43,Potintial Loyalist
+25,3,443.51,4,3,5,43,Potential Loyalist
 63,4,253.76000000000002,3,4,4,34,Loyal Customer
 24,4,142.27999999999997,4,4,3,44,Loyal Customer
 220,1,44.790000000000006,1,1,2,11,Hibernating
@@ -1556,7 +1556,7 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 268,1,145.57999999999998,1,1,3,11,Hibernating
 21,4,106.88999999999999,5,4,3,54,VIP
 211,1,54.09,1,1,2,11,Hibernating
-32,2,179.48999999999998,4,3,4,43,Potintial Loyalist
+32,2,179.48999999999998,4,3,4,43,Potential Loyalist
 35,1,70.85000000000001,4,1,2,41,Promising
 298,1,110.32000000000001,1,1,3,11,Hibernating
 275,1,46.66,1,1,2,11,Hibernating
@@ -1565,12 +1565,12 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 179,7,296.0299999999999,2,5,4,25,Can't Loose
 21,7,84.38000000000001,5,5,2,55,VIP
 163,2,1.6099999999999999,2,3,1,23,At Risk
-37,2,20.1,4,3,1,43,Potintial Loyalist
+37,2,20.1,4,3,1,43,Potential Loyalist
 85,2,65.35,2,3,2,23,At Risk
 57,1,98.40000000000002,3,1,3,31,About to Sleep
 28,1,52.559999999999995,4,1,2,41,Promising
 36,5,163.61,4,4,3,44,Loyal Customer
-27,2,5.8,4,3,1,43,Potintial Loyalist
+27,2,5.8,4,3,1,43,Potential Loyalist
 44,2,25.77,3,3,1,33,Need Attention
 18,4,142.95999999999998,5,4,3,54,VIP
 183,1,116.80000000000003,1,1,3,11,Hibernating
@@ -1582,7 +1582,7 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 21,1,75.45,5,1,2,51,New Customer
 84,3,194.86999999999995,2,3,4,23,At Risk
 126,1,107.2,2,1,3,21,Hibernating
-28,3,103.98999999999995,4,3,3,43,Potintial Loyalist
+28,3,103.98999999999995,4,3,3,43,Potential Loyalist
 79,3,210.85000000000002,2,3,4,23,At Risk
 95,1,58.15,2,1,2,21,Hibernating
 319,1,10.120000000000001,1,1,1,11,Hibernating
@@ -1599,7 +1599,7 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 36,7,506.55999999999995,4,5,5,45,Loyal Customer
 155,4,392.76,2,4,5,24,At Risk
 380,1,35.85,1,1,1,11,Hibernating
-30,3,160.41,4,3,3,43,Potintial Loyalist
+30,3,160.41,4,3,3,43,Potential Loyalist
 57,3,399.52,3,3,5,33,Need Attention
 71,2,208.05999999999995,3,3,4,33,Need Attention
 69,3,192.30999999999995,3,3,4,33,Need Attention
@@ -1611,28 +1611,28 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 374,1,127.96,1,1,3,11,Hibernating
 191,2,160.39999999999998,1,3,3,13,At Risk
 157,2,121.63000000000001,2,3,3,23,At Risk
-9,3,193.55999999999997,5,3,4,53,Potintial Loyalist
+9,3,193.55999999999997,5,3,4,53,Potential Loyalist
 151,1,37.52,2,1,1,21,Hibernating
 30,1,232.98999999999995,4,1,4,41,Promising
 36,5,101.23999999999998,4,4,3,44,Loyal Customer
 234,1,33.18000000000001,1,1,1,11,Hibernating
 221,1,66.53,1,1,2,11,Hibernating
-23,3,199.48999999999995,4,3,4,43,Potintial Loyalist
+23,3,199.48999999999995,4,3,4,43,Potential Loyalist
 13,41,2834.13,5,5,5,55,VIP
-29,3,72.15,4,3,2,43,Potintial Loyalist
+29,3,72.15,4,3,2,43,Potential Loyalist
 70,4,241.79000000000002,3,4,4,34,Loyal Customer
 230,1,24.390000000000004,1,1,1,11,Hibernating
 32,1,151.34999999999997,4,1,3,41,Promising
 218,8,570.9200000000001,1,5,5,15,Can't Loose
 56,5,496.6700000000001,3,4,5,34,Loyal Customer
-42,2,84.66999999999999,4,3,2,43,Potintial Loyalist
+42,2,84.66999999999999,4,3,2,43,Potential Loyalist
 15,8,396.51,5,5,5,55,VIP
-34,2,165.74999999999994,4,3,3,43,Potintial Loyalist
+34,2,165.74999999999994,4,3,3,43,Potential Loyalist
 22,8,269.15999999999997,4,5,4,45,Loyal Customer
 67,6,232.85999999999999,3,5,4,35,Loyal Customer
 259,1,40.870000000000005,1,1,1,11,Hibernating
 161,3,281.85,2,3,4,23,At Risk
-15,2,108.16,5,3,3,53,Potintial Loyalist
+15,2,108.16,5,3,3,53,Potential Loyalist
 77,3,93.36,2,3,3,23,At Risk
 57,2,184.59999999999994,3,3,4,33,Need Attention
 84,6,760.08,2,5,5,25,Can't Loose
@@ -1640,7 +1640,7 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 66,2,152.10999999999993,3,3,3,33,Need Attention
 260,1,65.69,1,1,2,11,Hibernating
 77,2,2.9,2,3,1,23,At Risk
-10,3,53.43000000000001,5,3,2,53,Potintial Loyalist
+10,3,53.43000000000001,5,3,2,53,Potential Loyalist
 21,12,638.5799999999999,5,5,5,55,VIP
 21,9,610.3299999999999,5,5,5,55,VIP
 60,1,30.65,3,1,1,31,About to Sleep
@@ -1654,11 +1654,11 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 119,2,207.1,2,3,4,23,At Risk
 13,7,397.91999999999996,5,5,5,55,VIP
 232,1,85.46,1,1,2,11,Hibernating
-36,3,82.40000000000002,4,3,2,43,Potintial Loyalist
+36,3,82.40000000000002,4,3,2,43,Potential Loyalist
 296,1,33.85,1,1,1,11,Hibernating
 188,2,39.28,1,3,1,13,At Risk
 55,1,48.68000000000001,3,1,2,31,About to Sleep
-15,3,269.91999999999996,5,3,4,53,Potintial Loyalist
+15,3,269.91999999999996,5,3,4,53,Potential Loyalist
 34,11,585.31,4,5,5,45,Loyal Customer
 9,4,545.6500000000001,5,4,5,54,VIP
 67,4,290.37999999999994,3,4,4,34,Loyal Customer
@@ -1668,7 +1668,7 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 202,2,129.72,1,3,3,13,At Risk
 9,19,476.90999999999997,5,5,5,55,VIP
 51,8,446.86,3,5,5,35,Loyal Customer
-14,2,53.900000000000006,5,3,2,53,Potintial Loyalist
+14,2,53.900000000000006,5,3,2,53,Potential Loyalist
 77,1,84.80000000000001,2,1,2,21,Hibernating
 234,1,3.9899999999999998,1,1,1,11,Hibernating
 8,7,366.94,5,5,5,55,VIP
@@ -1681,8 +1681,8 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 102,1,32.46,2,1,1,21,Hibernating
 67,4,267.1600000000001,3,4,4,34,Loyal Customer
 23,14,873.8600000000001,4,5,5,45,Loyal Customer
-24,2,244.86,4,3,4,43,Potintial Loyalist
-38,3,311.84,4,3,4,43,Potintial Loyalist
+24,2,244.86,4,3,4,43,Potential Loyalist
+38,3,311.84,4,3,4,43,Potential Loyalist
 86,1,41.910000000000004,2,1,1,21,Hibernating
 268,1,28.009999999999994,1,1,1,11,Hibernating
 8,6,563.77,5,5,5,55,VIP
@@ -1711,9 +1711,9 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 11,6,485.82,5,5,5,55,VIP
 46,3,337.85,3,3,4,33,Need Attention
 81,1,18.54,2,1,1,21,Hibernating
-32,2,122.44,4,3,3,43,Potintial Loyalist
+32,2,122.44,4,3,3,43,Potential Loyalist
 263,2,69.76,1,3,2,13,At Risk
-11,3,178.15999999999997,5,3,4,53,Potintial Loyalist
+11,3,178.15999999999997,5,3,4,53,Potential Loyalist
 29,1,79.95,4,1,2,41,Promising
 240,1,72.47,1,1,2,11,Hibernating
 11,4,403.78999999999996,5,4,5,54,VIP
@@ -1753,7 +1753,7 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 147,1,21.45,2,1,1,21,Hibernating
 196,1,20.72,1,1,1,11,Hibernating
 22,9,180.31999999999996,4,5,4,45,Loyal Customer
-14,3,2.2,5,3,1,53,Potintial Loyalist
+14,3,2.2,5,3,1,53,Potential Loyalist
 46,7,82.53,3,5,2,35,Loyal Customer
 37,13,512.59,4,5,5,45,Loyal Customer
 22,4,129.82,4,4,3,44,Loyal Customer
@@ -1783,7 +1783,7 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 37,1,448.0400000000001,4,1,5,41,Promising
 164,1,0.29,2,1,1,21,Hibernating
 8,5,202.17000000000002,5,4,4,54,VIP
-37,2,99.58999999999999,4,3,3,43,Potintial Loyalist
+37,2,99.58999999999999,4,3,3,43,Potential Loyalist
 50,2,114.52,3,3,3,33,Need Attention
 16,6,146.81,5,5,3,55,VIP
 9,10,492.53,5,5,5,55,VIP
@@ -1798,15 +1798,15 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 46,7,397.53999999999996,3,5,5,35,Loyal Customer
 181,1,41.85,2,1,1,21,Hibernating
 207,1,128.33,1,1,3,11,Hibernating
-35,2,199.42,4,3,4,43,Potintial Loyalist
+35,2,199.42,4,3,4,43,Potential Loyalist
 252,2,71.71,1,3,2,13,At Risk
 240,1,6.75,1,1,1,11,Hibernating
 38,1,46.6,4,1,2,41,Promising
 269,1,29.28,1,1,1,11,Hibernating
 63,1,49.17,3,1,2,31,About to Sleep
 112,3,579.6700000000001,2,3,5,23,At Risk
-7,2,149.39,5,3,3,53,Potintial Loyalist
-20,3,221.24,5,3,4,53,Potintial Loyalist
+7,2,149.39,5,3,3,53,Potential Loyalist
+20,3,221.24,5,3,4,53,Potential Loyalist
 261,1,13.559999999999999,1,1,1,11,Hibernating
 32,4,610.49,4,4,5,44,Loyal Customer
 204,2,191.32999999999998,1,3,4,13,At Risk
@@ -1842,7 +1842,7 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 214,1,97.72999999999999,1,1,3,11,Hibernating
 331,1,77.10000000000002,1,1,2,11,Hibernating
 30,4,70.26,4,4,2,44,Loyal Customer
-18,2,228.64999999999998,5,3,4,53,Potintial Loyalist
+18,2,228.64999999999998,5,3,4,53,Potential Loyalist
 7,6,32.15,5,5,1,55,VIP
 22,6,412.38,4,5,5,45,Loyal Customer
 303,1,55.69999999999999,1,1,2,11,Hibernating
@@ -1855,14 +1855,14 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 297,1,10.75,1,1,1,11,Hibernating
 70,2,250.57999999999998,3,3,4,33,Need Attention
 234,1,29.119999999999997,1,1,1,11,Hibernating
-36,2,157.5,4,3,3,43,Potintial Loyalist
+36,2,157.5,4,3,3,43,Potential Loyalist
 9,6,686.5899999999999,5,5,5,55,VIP
 115,6,730.79,2,5,5,25,Can't Loose
 8,29,3330.54,5,5,5,55,VIP
 95,1,181.52,2,1,4,21,Hibernating
 279,1,2.4,1,1,1,11,Hibernating
-37,2,41.57000000000001,4,3,1,43,Potintial Loyalist
-15,2,334.93,5,3,4,53,Potintial Loyalist
+37,2,41.57000000000001,4,3,1,43,Potential Loyalist
+15,2,334.93,5,3,4,53,Potential Loyalist
 129,10,544.61,2,5,5,25,Can't Loose
 143,13,623.21,2,5,5,25,Can't Loose
 35,4,255.69999999999996,4,4,4,44,Loyal Customer
@@ -1873,15 +1873,15 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 11,10,1666.4,5,5,5,55,VIP
 9,8,545.74,5,5,5,55,VIP
 210,1,243.74,1,1,4,11,Hibernating
-17,2,163.36999999999995,5,3,3,53,Potintial Loyalist
+17,2,163.36999999999995,5,3,3,53,Potential Loyalist
 42,5,200.96999999999997,4,4,4,44,Loyal Customer
-10,3,179.93999999999997,5,3,4,53,Potintial Loyalist
+10,3,179.93999999999997,5,3,4,53,Potential Loyalist
 261,1,26.8,1,1,1,11,Hibernating
 22,5,74.42999999999999,4,4,2,44,Loyal Customer
 36,10,767.63,4,5,5,45,Loyal Customer
 8,5,88.80000000000001,5,4,2,54,VIP
 28,6,1014.6200000000001,4,5,5,45,Loyal Customer
-18,2,102.17999999999999,5,3,3,53,Potintial Loyalist
+18,2,102.17999999999999,5,3,3,53,Potential Loyalist
 11,4,428.12,5,4,5,54,VIP
 10,47,4056.37,5,5,5,55,VIP
 183,1,7.49,1,1,1,11,Hibernating
@@ -1904,8 +1904,8 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 52,1,52.89,3,1,2,31,About to Sleep
 55,2,299.06000000000006,3,3,4,33,Need Attention
 60,2,242.27999999999997,3,3,4,33,Need Attention
-14,3,98.80000000000003,5,3,3,53,Potintial Loyalist
-28,2,132.64000000000001,4,3,3,43,Potintial Loyalist
+14,3,98.80000000000003,5,3,3,53,Potential Loyalist
+28,2,132.64000000000001,4,3,3,43,Potential Loyalist
 121,1,18.350000000000005,2,1,1,21,Hibernating
 42,5,391.20000000000005,4,4,5,44,Loyal Customer
 71,2,51.62,3,3,2,33,Need Attention
@@ -1916,7 +1916,7 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 69,2,74.05000000000001,3,3,2,33,Need Attention
 9,8,283.91,5,5,4,55,VIP
 310,1,13.45,1,1,1,11,Hibernating
-21,2,183.34999999999997,5,3,4,53,Potintial Loyalist
+21,2,183.34999999999997,5,3,4,53,Potential Loyalist
 371,1,20.91,1,1,1,11,Hibernating
 206,2,31.74,1,3,1,13,At Risk
 316,2,85.99,1,3,2,13,At Risk
@@ -1932,9 +1932,9 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 14,4,187.54999999999998,5,4,4,54,VIP
 221,2,96.15,1,3,3,13,At Risk
 45,2,96.95,3,3,3,33,Need Attention
-14,3,285.06,5,3,4,53,Potintial Loyalist
+14,3,285.06,5,3,4,53,Potential Loyalist
 253,1,30.5,1,1,1,11,Hibernating
-25,2,77.95,4,3,2,43,Potintial Loyalist
+25,2,77.95,4,3,2,43,Potential Loyalist
 374,1,39.88,1,1,1,11,Hibernating
 90,3,94.77999999999999,2,3,3,23,At Risk
 64,8,539.45,3,5,5,35,Loyal Customer
@@ -1946,8 +1946,8 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 72,1,49.61,3,1,2,31,About to Sleep
 27,12,261.22,4,5,4,45,Loyal Customer
 36,1,14.56,4,1,1,41,Promising
-24,2,63.98999999999999,4,3,2,43,Potintial Loyalist
-23,2,20.7,4,3,1,43,Potintial Loyalist
+24,2,63.98999999999999,4,3,2,43,Potential Loyalist
+23,2,20.7,4,3,1,43,Potential Loyalist
 198,1,48.34,1,1,2,11,Hibernating
 162,2,71.99,2,3,2,23,At Risk
 35,1,96.10000000000001,4,1,3,41,Promising
@@ -1965,34 +1965,34 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 211,2,33.46000000000001,1,3,1,13,At Risk
 43,1,16.87,3,1,1,31,About to Sleep
 37,4,222.69999999999996,4,4,4,44,Loyal Customer
-16,3,51.82000000000001,5,3,2,53,Potintial Loyalist
+16,3,51.82000000000001,5,3,2,53,Potential Loyalist
 30,1,61.75,4,1,2,41,Promising
 373,1,55.6,1,1,2,11,Hibernating
 31,6,659.8399999999999,4,5,5,45,Loyal Customer
 15,1,115.7,5,1,3,51,New Customer
 109,1,29.64,2,1,1,21,Hibernating
 49,4,779.83,3,4,5,34,Loyal Customer
-24,2,138.64999999999998,4,3,3,43,Potintial Loyalist
+24,2,138.64999999999998,4,3,3,43,Potential Loyalist
 48,1,12.7,3,1,1,31,About to Sleep
 22,7,236.10999999999999,4,5,4,45,Loyal Customer
 52,1,66.83,3,1,2,31,About to Sleep
 309,1,150.32,1,1,3,11,Hibernating
 67,1,95.81,3,1,3,31,About to Sleep
 34,8,621.8800000000001,4,5,5,45,Loyal Customer
-9,3,112.33000000000001,5,3,3,53,Potintial Loyalist
+9,3,112.33000000000001,5,3,3,53,Potential Loyalist
 62,2,14.14,3,3,1,33,Need Attention
 27,9,338.102,4,5,4,45,Loyal Customer
 189,3,143.75999999999996,1,3,3,13,At Risk
-29,2,56.01,4,3,2,43,Potintial Loyalist
+29,2,56.01,4,3,2,43,Potential Loyalist
 116,3,109.25999999999999,2,3,3,23,At Risk
 367,1,59.910000000000004,1,1,2,11,Hibernating
 23,5,92.71000000000001,4,4,3,44,Loyal Customer
 76,1,57.38,3,1,2,31,About to Sleep
 105,3,116.3,2,3,3,23,At Risk
-7,3,143.71999999999997,5,3,3,53,Potintial Loyalist
+7,3,143.71999999999997,5,3,3,53,Potential Loyalist
 10,14,418.29,5,5,5,55,VIP
 74,2,102.60000000000001,3,3,3,33,Need Attention
-36,3,54.7,4,3,2,43,Potintial Loyalist
+36,3,54.7,4,3,2,43,Potential Loyalist
 50,3,76.33,3,3,2,33,Need Attention
 16,6,159.19999999999996,5,5,3,55,VIP
 136,1,113.9,2,1,3,21,Hibernating
@@ -2001,7 +2001,7 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 58,3,39.36,3,3,1,33,Need Attention
 65,1,24.5,3,1,1,31,About to Sleep
 372,1,45.290000000000006,1,1,2,11,Hibernating
-20,2,173.31000000000003,5,3,4,53,Potintial Loyalist
+20,2,173.31000000000003,5,3,4,53,Potential Loyalist
 7,1,118.78999999999999,5,1,3,51,New Customer
 18,1,15.989999999999998,5,1,1,51,New Customer
 35,4,360.43999999999994,4,4,4,44,Loyal Customer
@@ -2039,17 +2039,17 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 56,1,14.899999999999999,3,1,1,31,About to Sleep
 154,4,169.95999999999998,2,4,3,24,At Risk
 14,20,1032.42,5,5,5,55,VIP
-23,3,269.5199999999999,4,3,4,43,Potintial Loyalist
-22,2,40.64,4,3,1,43,Potintial Loyalist
+23,3,269.5199999999999,4,3,4,43,Potential Loyalist
+22,2,40.64,4,3,1,43,Potential Loyalist
 172,1,124.93,2,1,3,21,Hibernating
 246,2,321.68,1,3,4,13,At Risk
 21,4,220.29999999999995,5,4,4,54,VIP
 120,2,83.05,2,3,2,23,At Risk
-22,2,101.07999999999998,4,3,3,43,Potintial Loyalist
+22,2,101.07999999999998,4,3,3,43,Potential Loyalist
 42,14,357.78000000000003,4,5,4,45,Loyal Customer
 7,10,794.46,5,5,5,55,VIP
 92,4,761.5899999999999,2,4,5,24,At Risk
-36,3,303.13,4,3,4,43,Potintial Loyalist
+36,3,303.13,4,3,4,43,Potential Loyalist
 67,1,30.510000000000005,3,1,1,31,About to Sleep
 203,4,36.62,1,4,1,14,At Risk
 22,4,292.20000000000005,4,4,4,44,Loyal Customer
@@ -2059,7 +2059,7 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 129,2,41.09,2,3,1,23,At Risk
 142,1,4.95,2,1,1,21,Hibernating
 49,1,5.67,3,1,1,31,About to Sleep
-21,3,28.86,5,3,1,53,Potintial Loyalist
+21,3,28.86,5,3,1,53,Potential Loyalist
 7,5,278.01000000000005,5,4,4,54,VIP
 100,2,63.06000000000002,2,3,2,23,At Risk
 35,8,131.20000000000002,4,5,3,45,Loyal Customer
@@ -2072,7 +2072,7 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 10,6,414.73,5,5,5,55,VIP
 372,1,57.55000000000001,1,1,2,11,Hibernating
 207,2,182.42999999999998,1,3,4,13,At Risk
-10,2,47.3,5,3,2,53,Potintial Loyalist
+10,2,47.3,5,3,2,53,Potential Loyalist
 197,1,17.15,1,1,1,11,Hibernating
 142,6,273.35,2,5,4,25,Can't Loose
 252,4,170.09999999999994,1,4,3,14,At Risk
@@ -2099,7 +2099,7 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 91,1,13.649999999999999,2,1,1,21,Hibernating
 67,2,77.63,3,3,2,33,Need Attention
 8,4,102.79999999999998,5,4,3,54,VIP
-15,2,73.14999999999999,5,3,2,53,Potintial Loyalist
+15,2,73.14999999999999,5,3,2,53,Potential Loyalist
 11,4,430.49999999999994,5,4,5,54,VIP
 190,1,99.15,1,1,3,11,Hibernating
 9,6,916.4200000000001,5,5,5,55,VIP
@@ -2108,7 +2108,7 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 304,8,20.67,1,5,1,15,Can't Loose
 177,2,10.9,2,3,1,23,At Risk
 90,2,144.48,2,3,3,23,At Risk
-14,2,91.79,5,3,3,53,Potintial Loyalist
+14,2,91.79,5,3,3,53,Potential Loyalist
 45,6,341.93,3,5,4,35,Loyal Customer
 51,5,160.61,3,4,3,34,Loyal Customer
 60,7,492.0899999999999,3,5,5,35,Loyal Customer
@@ -2126,12 +2126,12 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 62,6,33.31,3,5,1,35,Loyal Customer
 65,2,27.640000000000008,3,3,1,33,Need Attention
 16,6,765.2900000000001,5,5,5,55,VIP
-23,2,158.46,4,3,3,43,Potintial Loyalist
-34,2,15.12,4,3,1,43,Potintial Loyalist
+23,2,158.46,4,3,3,43,Potential Loyalist
+34,2,15.12,4,3,1,43,Potential Loyalist
 134,1,43.3,2,1,2,21,Hibernating
-38,2,147.50999999999993,4,3,3,43,Potintial Loyalist
+38,2,147.50999999999993,4,3,3,43,Potential Loyalist
 226,1,76.85000000000001,1,1,2,11,Hibernating
-16,3,149.36,5,3,3,53,Potintial Loyalist
+16,3,149.36,5,3,3,53,Potential Loyalist
 209,3,128.64,1,3,3,13,At Risk
 37,7,532.7299999999999,4,5,5,45,Loyal Customer
 62,3,37.800000000000004,3,3,1,33,Need Attention
@@ -2153,21 +2153,21 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 105,1,11.91,2,1,1,21,Hibernating
 42,4,447.8999999999999,4,4,5,44,Loyal Customer
 11,5,564.8299999999999,5,4,5,54,VIP
-29,3,157.70999999999995,4,3,3,43,Potintial Loyalist
+29,3,157.70999999999995,4,3,3,43,Potential Loyalist
 109,2,142.39999999999998,2,3,3,23,At Risk
 144,1,4.04,2,1,1,21,Hibernating
 183,1,41.839999999999996,1,1,1,11,Hibernating
 16,6,255.55999999999997,5,5,4,55,VIP
 282,1,40.910000000000004,1,1,1,11,Hibernating
 46,4,155.65,3,4,3,34,Loyal Customer
-38,3,200.57,4,3,4,43,Potintial Loyalist
+38,3,200.57,4,3,4,43,Potential Loyalist
 116,7,690.64,2,5,5,25,Can't Loose
 232,1,41.2,1,1,1,11,Hibernating
-18,3,229.94,5,3,4,53,Potintial Loyalist
+18,3,229.94,5,3,4,53,Potential Loyalist
 169,4,85.88000000000001,2,4,2,24,At Risk
 316,1,50.58,1,1,2,11,Hibernating
 76,2,184.35999999999996,3,3,4,33,Need Attention
-32,3,342.4599999999999,4,3,4,43,Potintial Loyalist
+32,3,342.4599999999999,4,3,4,43,Potential Loyalist
 260,1,47.81000000000001,1,1,2,11,Hibernating
 239,1,25.5,1,1,1,11,Hibernating
 45,7,345.12,3,5,4,35,Loyal Customer
@@ -2175,11 +2175,11 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 59,2,23.82,3,3,1,33,Need Attention
 87,1,74.8,2,1,2,21,Hibernating
 11,15,735.28,5,5,5,55,VIP
-31,3,474.59999999999997,4,3,5,43,Potintial Loyalist
+31,3,474.59999999999997,4,3,5,43,Potential Loyalist
 34,1,117.17,4,1,3,41,Promising
 80,1,65.1,2,1,2,21,Hibernating
 217,1,0.84,1,1,1,11,Hibernating
-22,2,184.03,4,3,4,43,Potintial Loyalist
+22,2,184.03,4,3,4,43,Potential Loyalist
 86,1,8.05,2,1,1,21,Hibernating
 237,1,74.87,1,1,2,11,Hibernating
 22,4,223.59999999999997,4,4,4,44,Loyal Customer
@@ -2207,20 +2207,20 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 10,5,602.98,5,4,5,54,VIP
 368,1,103.81,1,1,3,11,Hibernating
 162,3,178.67000000000002,2,3,4,23,At Risk
-23,3,228.26,4,3,4,43,Potintial Loyalist
+23,3,228.26,4,3,4,43,Potential Loyalist
 22,1,111.19000000000001,4,1,3,41,Promising
 32,1,79.36,4,1,2,41,Promising
 7,17,938.1400000000001,5,5,5,55,VIP
 21,7,291.1,5,5,4,55,VIP
 29,1,20.119999999999997,4,1,1,41,Promising
 21,7,617.07,5,5,5,55,VIP
-25,2,109.19,4,3,3,43,Potintial Loyalist
+25,2,109.19,4,3,3,43,Potential Loyalist
 42,8,631.3299999999999,4,5,5,45,Loyal Customer
 44,14,426.8399999999999,3,5,5,35,Loyal Customer
 248,1,82.2,1,1,2,11,Hibernating
-15,2,187.48999999999998,5,3,4,53,Potintial Loyalist
+15,2,187.48999999999998,5,3,4,53,Potential Loyalist
 36,15,629.5699999999999,4,5,5,45,Loyal Customer
-8,2,259.36,5,3,4,53,Potintial Loyalist
+8,2,259.36,5,3,4,53,Potential Loyalist
 154,1,49.06,2,1,2,21,Hibernating
 18,6,1294.74,5,5,5,55,VIP
 367,1,29.9,1,1,1,11,Hibernating
@@ -2242,27 +2242,27 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 7,22,1773.79,5,5,5,55,VIP
 281,1,88.06,1,1,2,11,Hibernating
 210,1,230.60000000000002,1,1,4,11,Hibernating
-39,2,26.439999999999998,4,3,1,43,Potintial Loyalist
+39,2,26.439999999999998,4,3,1,43,Potential Loyalist
 25,4,169.89999999999998,4,4,3,44,Loyal Customer
 66,2,67.47000000000001,3,3,2,33,Need Attention
 156,3,275.33,2,3,4,23,At Risk
 105,2,8.870000000000001,2,3,1,23,At Risk
-34,2,25.730000000000004,4,3,1,43,Potintial Loyalist
+34,2,25.730000000000004,4,3,1,43,Potential Loyalist
 32,5,234.92,4,4,4,44,Loyal Customer
 11,14,1499.9900000000002,5,5,5,55,VIP
 28,10,1310.0,4,5,5,45,Loyal Customer
-22,3,415.47,4,3,5,43,Potintial Loyalist
+22,3,415.47,4,3,5,43,Potential Loyalist
 260,3,313.73999999999995,1,3,4,13,At Risk
-14,3,399.02,5,3,5,53,Potintial Loyalist
+14,3,399.02,5,3,5,53,Potential Loyalist
 261,1,15.55,1,1,1,11,Hibernating
 365,2,83.00000000000001,1,3,2,13,At Risk
-25,3,331.36,4,3,4,43,Potintial Loyalist
+25,3,331.36,4,3,4,43,Potential Loyalist
 18,8,533.22,5,5,5,55,VIP
 8,26,1343.4299999999998,5,5,5,55,VIP
 18,1,73.26,5,1,2,51,New Customer
-41,2,309.42,4,3,4,43,Potintial Loyalist
+41,2,309.42,4,3,4,43,Potential Loyalist
 234,3,56.79,1,3,2,13,At Risk
-34,3,10.98,4,3,1,43,Potintial Loyalist
+34,3,10.98,4,3,1,43,Potential Loyalist
 319,1,24.15,1,1,1,11,Hibernating
 24,5,219.96,4,4,4,44,Loyal Customer
 224,3,31.950000000000003,1,3,1,13,At Risk
@@ -2284,7 +2284,7 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 79,4,269.71000000000015,2,4,4,24,At Risk
 32,24,1132.0,4,5,5,45,Loyal Customer
 80,1,51.14,2,1,2,21,Hibernating
-38,3,134.75,4,3,3,43,Potintial Loyalist
+38,3,134.75,4,3,3,43,Potential Loyalist
 51,1,74.30999999999999,3,1,2,31,About to Sleep
 69,8,715.84,3,5,5,35,Loyal Customer
 35,7,335.25,4,5,4,45,Loyal Customer
@@ -2306,14 +2306,14 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 38,8,390.78,4,5,5,45,Loyal Customer
 371,1,2.5,1,1,1,11,Hibernating
 56,2,56.63000000000001,3,3,2,33,Need Attention
-14,3,79.59,5,3,2,53,Potintial Loyalist
+14,3,79.59,5,3,2,53,Potential Loyalist
 57,1,18.6,3,1,1,31,About to Sleep
 29,1,52.2,4,1,2,41,Promising
 163,2,175.05999999999997,2,3,4,23,At Risk
 62,2,55.18,3,3,2,33,Need Attention
 29,4,265.66999999999996,4,4,4,44,Loyal Customer
 14,4,315.96,5,4,4,54,VIP
-28,2,58.63,4,3,2,43,Potintial Loyalist
+28,2,58.63,4,3,2,43,Potential Loyalist
 7,7,159.77999999999997,5,5,3,55,VIP
 21,6,114.08999999999999,5,5,3,55,VIP
 303,2,45.400000000000006,1,3,2,13,At Risk
@@ -2326,7 +2326,7 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 59,8,793.13,3,5,5,35,Loyal Customer
 46,1,52.0,3,1,2,31,About to Sleep
 63,2,101.55,3,3,3,33,Need Attention
-37,2,239.44,4,3,4,43,Potintial Loyalist
+37,2,239.44,4,3,4,43,Potential Loyalist
 8,8,397.25,5,5,5,55,VIP
 21,9,148.57999999999998,5,5,3,55,VIP
 241,2,53.53,1,3,2,13,At Risk
@@ -2335,7 +2335,7 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 92,1,29.970000000000002,2,1,1,21,Hibernating
 60,1,64.37,3,1,2,31,About to Sleep
 259,1,54.09,1,1,2,11,Hibernating
-36,3,43.6,4,3,2,43,Potintial Loyalist
+36,3,43.6,4,3,2,43,Potential Loyalist
 301,1,1.25,1,1,1,11,Hibernating
 7,12,347.80999999999995,5,5,4,55,VIP
 239,2,148.78999999999996,1,3,3,13,At Risk
@@ -2344,12 +2344,12 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 266,1,1.9,1,1,1,11,Hibernating
 118,1,74.66,2,1,2,21,Hibernating
 144,2,270.60999999999996,2,3,4,23,At Risk
-11,3,437.70000000000005,5,3,5,53,Potintial Loyalist
+11,3,437.70000000000005,5,3,5,53,Potential Loyalist
 231,1,78.31,1,1,2,11,Hibernating
 59,1,270.98,3,1,4,31,About to Sleep
 198,2,84.45,1,3,2,13,At Risk
 21,7,436.90000000000003,5,5,5,55,VIP
-8,3,162.04,5,3,3,53,Potintial Loyalist
+8,3,162.04,5,3,3,53,Potential Loyalist
 95,3,34.89,2,3,1,23,At Risk
 197,5,155.35999999999999,1,4,3,14,At Risk
 11,8,534.07,5,5,5,55,VIP
@@ -2362,9 +2362,9 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 42,1,15.6,4,1,1,41,Promising
 32,1,111.28,4,1,3,41,Promising
 29,7,869.5699999999999,4,5,5,45,Loyal Customer
-21,2,49.6,5,3,2,53,Potintial Loyalist
-42,2,34.2,4,3,1,43,Potintial Loyalist
-23,2,131.80999999999997,4,3,3,43,Potintial Loyalist
+21,2,49.6,5,3,2,53,Potential Loyalist
+42,2,34.2,4,3,1,43,Potential Loyalist
+23,2,131.80999999999997,4,3,3,43,Potential Loyalist
 195,1,8.899999999999999,1,1,1,11,Hibernating
 14,9,201.07999999999998,5,5,4,55,VIP
 78,2,73.1,2,3,2,23,At Risk
@@ -2377,7 +2377,7 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 91,2,53.45,2,3,2,23,At Risk
 8,12,964.211,5,5,5,55,VIP
 102,10,581.5300000000001,2,5,5,25,Can't Loose
-14,3,424.1700000000001,5,3,5,53,Potintial Loyalist
+14,3,424.1700000000001,5,3,5,53,Potential Loyalist
 135,5,276.87,2,4,4,24,At Risk
 21,11,572.62,5,5,5,55,VIP
 28,4,570.74,4,4,5,44,Loyal Customer
@@ -2394,7 +2394,7 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 51,1,77.36999999999999,3,1,2,31,About to Sleep
 60,5,396.92,3,4,5,34,Loyal Customer
 273,1,0.38,1,1,1,11,Hibernating
-38,3,78.02000000000001,4,3,2,43,Potintial Loyalist
+38,3,78.02000000000001,4,3,2,43,Potential Loyalist
 73,1,78.64999999999999,3,1,2,31,About to Sleep
 105,2,66.84,2,3,2,23,At Risk
 72,1,26.6,3,1,1,31,About to Sleep
@@ -2404,7 +2404,7 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 150,1,52.31,2,1,2,21,Hibernating
 73,5,211.03,3,4,4,34,Loyal Customer
 171,3,200.87,2,3,4,23,At Risk
-41,2,138.91,4,3,3,43,Potintial Loyalist
+41,2,138.91,4,3,3,43,Potential Loyalist
 20,5,29.99,5,4,1,54,VIP
 378,2,49.00000000000001,1,3,2,13,At Risk
 72,7,236.14,3,5,4,35,Loyal Customer
@@ -2418,25 +2418,25 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 11,18,2008.78,5,5,5,55,VIP
 101,2,64.89,2,3,2,23,At Risk
 28,4,192.87,4,4,4,44,Loyal Customer
-7,2,490.34000000000003,5,3,5,53,Potintial Loyalist
+7,2,490.34000000000003,5,3,5,53,Potential Loyalist
 77,7,203.31,2,5,4,25,Can't Loose
-35,2,77.47000000000001,4,3,2,43,Potintial Loyalist
+35,2,77.47000000000001,4,3,2,43,Potential Loyalist
 184,2,23.7,1,3,1,13,At Risk
 62,3,419.26,3,3,5,33,Need Attention
 230,1,18.0,1,1,1,11,Hibernating
 73,6,249.64,3,5,4,35,Loyal Customer
 135,4,73.66000000000001,2,4,2,24,At Risk
-14,3,525.01,5,3,5,53,Potintial Loyalist
+14,3,525.01,5,3,5,53,Potential Loyalist
 95,2,67.32999999999998,2,3,2,23,At Risk
 210,1,131.96999999999997,1,1,3,11,Hibernating
 14,16,582.2200000000001,5,5,5,55,VIP
 17,1,319.29,5,1,4,51,New Customer
 379,1,19.35,1,1,1,11,Hibernating
-18,3,338.59000000000003,5,3,4,53,Potintial Loyalist
+18,3,338.59000000000003,5,3,4,53,Potential Loyalist
 127,1,94.91000000000001,2,1,3,21,Hibernating
 123,1,3.7,2,1,1,21,Hibernating
 28,5,93.7,4,4,3,44,Loyal Customer
-35,2,84.16999999999999,4,3,2,43,Potintial Loyalist
+35,2,84.16999999999999,4,3,2,43,Potential Loyalist
 178,3,183.07999999999998,2,3,4,23,At Risk
 27,1,52.69000000000001,4,1,2,41,Promising
 70,3,98.64,3,3,3,33,Need Attention
@@ -2459,9 +2459,9 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 11,17,1949.1100000000001,5,5,5,55,VIP
 225,1,10.07,1,1,1,11,Hibernating
 268,1,44.440000000000005,1,1,2,11,Hibernating
-38,3,222.62999999999997,4,3,4,43,Potintial Loyalist
+38,3,222.62999999999997,4,3,4,43,Potential Loyalist
 79,1,33.099999999999994,2,1,1,21,Hibernating
-20,2,177.53999999999996,5,3,4,53,Potintial Loyalist
+20,2,177.53999999999996,5,3,4,53,Potential Loyalist
 29,12,781.7900000000001,4,5,5,45,Loyal Customer
 288,1,40.67,1,1,1,11,Hibernating
 51,1,33.199999999999996,3,1,1,31,About to Sleep
@@ -2473,7 +2473,7 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 25,12,384.07000000000005,4,5,5,45,Loyal Customer
 58,3,170.45999999999998,3,3,3,33,Need Attention
 48,3,99.86000000000001,3,3,3,33,Need Attention
-42,2,118.05,4,3,3,43,Potintial Loyalist
+42,2,118.05,4,3,3,43,Potential Loyalist
 11,7,725.0500000000001,5,5,5,55,VIP
 36,4,45.58,4,4,2,44,Loyal Customer
 311,1,104.98,1,1,3,11,Hibernating
@@ -2485,20 +2485,20 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 22,1,38.69,4,1,1,41,Promising
 20,5,119.87,5,4,3,54,VIP
 185,1,60.890000000000015,1,1,2,11,Hibernating
-16,3,293.9,5,3,4,53,Potintial Loyalist
+16,3,293.9,5,3,4,53,Potential Loyalist
 154,1,97.49000000000001,2,1,3,21,Hibernating
 42,7,622.55,4,5,5,45,Loyal Customer
 265,8,723.6500000000001,1,5,5,15,Can't Loose
 78,7,200.85,2,5,4,25,Can't Loose
 176,1,2.1,2,1,1,21,Hibernating
-20,2,44.06000000000001,5,3,2,53,Potintial Loyalist
+20,2,44.06000000000001,5,3,2,53,Potential Loyalist
 43,1,197.56,3,1,4,31,About to Sleep
 8,7,621.5799999999999,5,5,5,55,VIP
 248,4,274.01,1,4,4,14,At Risk
 273,1,72.95000000000002,1,1,2,11,Hibernating
 10,1,119.69999999999999,5,1,3,51,New Customer
 66,5,156.70999999999998,3,4,3,34,Loyal Customer
-38,3,239.24999999999994,4,3,4,43,Potintial Loyalist
+38,3,239.24999999999994,4,3,4,43,Potential Loyalist
 15,1,48.5,5,1,2,51,New Customer
 14,1,59.11,5,1,2,51,New Customer
 373,1,53.25,1,1,2,11,Hibernating
@@ -2507,17 +2507,17 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 298,1,24.600000000000005,1,1,1,11,Hibernating
 70,1,27.450000000000003,3,1,1,31,About to Sleep
 59,2,38.84,3,3,1,33,Need Attention
-21,2,55.760000000000005,5,3,2,53,Potintial Loyalist
+21,2,55.760000000000005,5,3,2,53,Potential Loyalist
 98,4,45.21000000000001,2,4,2,24,At Risk
 16,1,156.41000000000003,5,1,3,51,New Customer
 279,1,40.5,1,1,1,11,Hibernating
 291,2,20.790000000000003,1,3,1,13,At Risk
-35,3,110.30000000000001,4,3,3,43,Potintial Loyalist
+35,3,110.30000000000001,4,3,3,43,Potential Loyalist
 7,4,64.85,5,4,2,54,VIP
 144,3,57.23,2,3,2,23,At Risk
 66,1,89.8,3,1,2,31,About to Sleep
 17,6,756.06,5,5,5,55,VIP
-23,1,87.3,4,2,2,42,Potintial Loyalist
+23,1,87.3,4,2,2,42,Potential Loyalist
 11,10,318.12000000000006,5,5,4,55,VIP
 231,1,33.99999999999999,1,2,1,12,Hibernating
 14,9,517.97,5,5,5,55,VIP
@@ -2526,18 +2526,18 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 45,3,182.92,3,3,4,33,Need Attention
 324,2,241.25999999999996,1,3,4,13,At Risk
 16,4,75.35000000000001,5,4,2,54,VIP
-21,1,157.17999999999998,5,2,3,52,Potintial Loyalist
+21,1,157.17999999999998,5,2,3,52,Potential Loyalist
 91,1,90.97,2,2,3,22,Hibernating
 305,1,70.01,1,2,2,12,Hibernating
 9,10,593.48,5,5,5,55,VIP
 92,1,53.61000000000001,2,2,2,22,Hibernating
 21,10,1220.2000000000003,5,5,5,55,VIP
-30,1,189.08999999999997,4,2,4,42,Potintial Loyalist
+30,1,189.08999999999997,4,2,4,42,Potential Loyalist
 67,2,81.08000000000001,3,3,2,33,Need Attention
 240,1,36.04,1,2,1,12,Hibernating
-27,3,15.96,4,3,1,43,Potintial Loyalist
+27,3,15.96,4,3,1,43,Potential Loyalist
 98,4,544.36,2,4,5,24,At Risk
-8,3,55.400000000000006,5,3,2,53,Potintial Loyalist
+8,3,55.400000000000006,5,3,2,53,Potential Loyalist
 52,4,728.53,3,4,5,34,Loyal Customer
 74,2,177.96999999999997,3,3,4,33,Need Attention
 244,1,28.250000000000007,1,2,1,12,Hibernating
@@ -2547,25 +2547,25 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 7,6,424.28000000000003,5,5,5,55,VIP
 10,20,1093.7,5,5,5,55,VIP
 78,5,119.88,2,4,3,24,At Risk
-23,1,23.5,4,2,1,42,Potintial Loyalist
-10,2,101.59,5,3,3,53,Potintial Loyalist
+23,1,23.5,4,2,1,42,Potential Loyalist
+10,2,101.59,5,3,3,53,Potential Loyalist
 193,2,266.28000000000003,1,3,4,13,At Risk
-17,2,253.87999999999997,5,3,4,53,Potintial Loyalist
+17,2,253.87999999999997,5,3,4,53,Potential Loyalist
 136,5,339.1599999999999,2,4,4,24,At Risk
 176,1,21.049999999999997,2,2,1,22,Hibernating
-38,2,118.57,4,3,3,43,Potintial Loyalist
+38,2,118.57,4,3,3,43,Potential Loyalist
 53,2,264.89,3,3,4,33,Need Attention
 56,1,288.52,3,2,4,32,About to Sleep
-8,2,247.62,5,3,4,53,Potintial Loyalist
+8,2,247.62,5,3,4,53,Potential Loyalist
 35,11,2342.9,4,5,5,45,Loyal Customer
 377,1,0.85,1,2,1,12,Hibernating
-23,1,67.49000000000001,4,2,2,42,Potintial Loyalist
+23,1,67.49000000000001,4,2,2,42,Potential Loyalist
 267,1,118.57999999999998,1,2,3,12,Hibernating
 23,5,353.52,4,4,4,44,Loyal Customer
 116,5,260.36,2,4,4,24,At Risk
 17,6,636.3199999999999,5,5,5,55,VIP
-29,1,169.60999999999999,4,2,3,42,Potintial Loyalist
-25,3,536.86,4,3,5,43,Potintial Loyalist
+29,1,169.60999999999999,4,2,3,42,Potential Loyalist
+25,3,536.86,4,3,5,43,Potential Loyalist
 24,12,564.04,4,5,5,45,Loyal Customer
 18,8,412.93,5,5,5,55,VIP
 8,14,641.8100000000001,5,5,5,55,VIP
@@ -2574,36 +2574,36 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 50,2,341.8,3,3,4,33,Need Attention
 8,4,444.22,5,4,5,54,VIP
 59,4,281.24,3,4,4,34,Loyal Customer
-38,2,46.17,4,3,2,43,Potintial Loyalist
+38,2,46.17,4,3,2,43,Potential Loyalist
 23,18,905.5799999999999,4,5,5,45,Loyal Customer
-37,2,309.32000000000005,4,3,4,43,Potintial Loyalist
+37,2,309.32000000000005,4,3,4,43,Potential Loyalist
 53,2,42.43000000000001,3,3,2,33,Need Attention
 223,6,65.85,1,5,2,15,Can't Loose
 237,1,26.499999999999996,1,2,1,12,Hibernating
 14,28,330.41999999999996,5,5,4,55,VIP
 98,6,447.64000000000004,2,5,5,25,Can't Loose
 11,8,849.8799999999999,5,5,5,55,VIP
-36,2,73.63,4,3,2,43,Potintial Loyalist
+36,2,73.63,4,3,2,43,Potential Loyalist
 202,1,147.28,1,2,3,12,Hibernating
 66,2,341.3,3,3,4,33,Need Attention
 186,2,57.88,1,3,2,13,At Risk
 65,2,55.550000000000004,3,3,2,33,Need Attention
 72,4,190.79999999999998,3,4,4,34,Loyal Customer
-21,3,158.85999999999999,5,3,3,53,Potintial Loyalist
+21,3,158.85999999999999,5,3,3,53,Potential Loyalist
 21,4,126.50000000000001,5,4,3,54,VIP
 77,1,57.44,2,2,2,22,Hibernating
 58,4,159.04,3,4,3,34,Loyal Customer
 204,1,38.56,1,2,1,12,Hibernating
 15,4,80.02,5,4,2,54,VIP
-17,3,478.71000000000004,5,3,5,53,Potintial Loyalist
-25,2,23.6,4,3,1,43,Potintial Loyalist
+17,3,478.71000000000004,5,3,5,53,Potential Loyalist
+25,2,23.6,4,3,1,43,Potential Loyalist
 323,1,31.64,1,2,1,12,Hibernating
 55,4,407.9399999999999,3,4,5,34,Loyal Customer
 60,3,257.95,3,3,4,33,Need Attention
 161,3,320.39,2,3,4,23,At Risk
 48,1,6.7,3,2,1,32,About to Sleep
 9,7,589.27,5,5,5,55,VIP
-42,3,108.05000000000001,4,3,3,43,Potintial Loyalist
+42,3,108.05000000000001,4,3,3,43,Potential Loyalist
 73,1,4.2,3,2,1,32,About to Sleep
 21,4,304.5900000000001,5,4,4,54,VIP
 367,1,45.96000000000001,1,2,2,12,Hibernating
@@ -2613,19 +2613,19 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 59,1,129.54999999999998,3,2,3,32,About to Sleep
 169,3,121.63000000000001,2,3,3,23,At Risk
 70,3,1770.51,3,3,5,33,Need Attention
-32,1,168.45,4,2,3,42,Potintial Loyalist
+32,1,168.45,4,2,3,42,Potential Loyalist
 144,2,192.83999999999997,2,3,4,23,At Risk
 267,1,5.45,1,2,1,12,Hibernating
 311,1,78.24,1,2,2,12,Hibernating
-27,2,63.05,4,3,2,43,Potintial Loyalist
+27,2,63.05,4,3,2,43,Potential Loyalist
 8,4,474.56,5,4,5,54,VIP
 312,1,66.30000000000001,1,2,2,12,Hibernating
-24,2,78.85,4,3,2,43,Potintial Loyalist
+24,2,78.85,4,3,2,43,Potential Loyalist
 22,7,635.4000000000001,4,5,5,45,Loyal Customer
 9,6,285.69,5,5,4,55,VIP
 51,2,9.09,3,3,1,33,Need Attention
 217,2,13.299999999999999,1,3,1,13,At Risk
-28,2,120.44,4,3,3,43,Potintial Loyalist
+28,2,120.44,4,3,3,43,Potential Loyalist
 266,1,79.47999999999999,1,2,2,12,Hibernating
 146,3,79.49999999999999,2,3,2,23,At Risk
 17,7,584.9399999999999,5,5,5,55,VIP
@@ -2647,8 +2647,8 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 294,1,77.67999999999999,1,2,2,12,Hibernating
 36,6,120.51,4,5,3,45,Loyal Customer
 64,2,87.55,3,3,2,33,Need Attention
-32,3,311.83000000000004,4,3,4,43,Potintial Loyalist
-8,3,51.47,5,3,2,53,Potintial Loyalist
+32,3,311.83000000000004,4,3,4,43,Potential Loyalist
+8,3,51.47,5,3,2,53,Potential Loyalist
 60,3,230.21999999999997,3,3,4,33,Need Attention
 9,14,1001.14,5,5,5,55,VIP
 21,11,802.1,5,5,5,55,VIP
@@ -2663,9 +2663,9 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 225,1,63.400000000000006,1,2,2,12,Hibernating
 305,1,9.89,1,2,1,12,Hibernating
 322,1,75.49999999999999,1,2,2,12,Hibernating
-20,3,144.37,5,3,3,53,Potintial Loyalist
+20,3,144.37,5,3,3,53,Potential Loyalist
 364,2,72.26,1,3,2,13,At Risk
-13,2,77.98,5,3,2,53,Potintial Loyalist
+13,2,77.98,5,3,2,53,Potential Loyalist
 59,1,68.24,3,2,2,32,About to Sleep
 11,7,387.75,5,5,5,55,VIP
 30,8,521.21,4,5,5,45,Loyal Customer
@@ -2701,7 +2701,7 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 17,10,229.59999999999994,5,5,4,55,VIP
 377,1,22.92,1,2,1,12,Hibernating
 52,1,57.739999999999995,3,2,2,32,About to Sleep
-17,1,43.099999999999994,5,2,2,52,Potintial Loyalist
+17,1,43.099999999999994,5,2,2,52,Potential Loyalist
 365,1,53.3,1,2,2,12,Hibernating
 130,1,14.85,2,2,1,22,Hibernating
 111,9,300.92,2,5,4,25,Can't Loose
@@ -2711,7 +2711,7 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 57,1,47.95,3,2,2,32,About to Sleep
 59,8,397.81000000000006,3,5,5,35,Loyal Customer
 14,3,94.13,5,4,3,54,VIP
-22,2,122.54,4,3,3,43,Potintial Loyalist
+22,2,122.54,4,3,3,43,Potential Loyalist
 38,3,226.03,4,4,4,44,Loyal Customer
 29,9,527.17,4,5,5,45,Loyal Customer
 36,8,595.6500000000001,4,5,5,45,Loyal Customer
@@ -2724,10 +2724,10 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 142,1,0.85,2,2,1,22,Hibernating
 9,7,482.80999999999995,5,5,5,55,VIP
 363,1,96.7,1,2,3,12,Hibernating
-16,2,317.3900000000001,5,3,4,53,Potintial Loyalist
-29,1,30.390000000000004,4,2,1,42,Potintial Loyalist
+16,2,317.3900000000001,5,3,4,53,Potential Loyalist
+29,1,30.390000000000004,4,2,1,42,Potential Loyalist
 44,10,511.0,3,5,5,35,Loyal Customer
-20,2,41.349999999999994,5,3,1,53,Potintial Loyalist
+20,2,41.349999999999994,5,3,1,53,Potential Loyalist
 136,2,84.8,2,3,2,23,At Risk
 27,3,159.87999999999994,4,4,3,44,Loyal Customer
 23,4,314.8,4,4,4,44,Loyal Customer
@@ -2741,19 +2741,19 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 24,4,40.6,4,4,1,44,Loyal Customer
 11,4,755.6,5,4,5,54,VIP
 23,7,1131.5,4,5,5,45,Loyal Customer
-14,1,165.89,5,2,3,52,Potintial Loyalist
+14,1,165.89,5,2,3,52,Potential Loyalist
 101,2,254.55,2,3,4,23,At Risk
-15,2,101.12,5,3,3,53,Potintial Loyalist
+15,2,101.12,5,3,3,53,Potential Loyalist
 154,1,60.620000000000005,2,2,2,22,Hibernating
-24,1,67.1,4,2,2,42,Potintial Loyalist
+24,1,67.1,4,2,2,42,Potential Loyalist
 62,5,307.28000000000003,3,4,4,34,Loyal Customer
 20,3,233.46000000000004,5,4,4,54,VIP
 7,8,835.3299999999999,5,5,5,55,VIP
 135,1,31.349999999999998,2,2,1,22,Hibernating
 29,10,499.9799999999999,4,5,5,45,Loyal Customer
 52,3,243.79999999999995,3,4,4,34,Loyal Customer
-28,2,99.49000000000001,4,3,3,43,Potintial Loyalist
-20,1,140.48,5,2,3,52,Potintial Loyalist
+28,2,99.49000000000001,4,3,3,43,Potential Loyalist
+20,1,140.48,5,2,3,52,Potential Loyalist
 65,1,58.01,3,2,2,32,About to Sleep
 80,2,162.72999999999996,2,3,3,23,At Risk
 28,3,272.05,4,4,4,44,Loyal Customer
@@ -2762,7 +2762,7 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 79,1,122.53000000000002,2,2,3,22,Hibernating
 99,5,362.43,2,4,5,24,At Risk
 290,2,120.99000000000001,1,3,3,13,At Risk
-15,1,214.54999999999998,5,2,4,52,Potintial Loyalist
+15,1,214.54999999999998,5,2,4,52,Potential Loyalist
 116,2,251.03999999999996,2,3,4,23,At Risk
 121,2,46.89000000000001,2,3,2,23,At Risk
 375,1,133.04,1,2,3,12,Hibernating
@@ -2772,7 +2772,7 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 65,2,55.36999999999999,3,3,2,33,Need Attention
 129,2,82.09,2,3,2,23,At Risk
 60,3,950.05,3,4,5,34,Loyal Customer
-35,1,62.02000000000002,4,2,2,42,Potintial Loyalist
+35,1,62.02000000000002,4,2,2,42,Potential Loyalist
 288,1,92.59999999999998,1,2,3,12,Hibernating
 119,2,70.85,2,3,2,23,At Risk
 18,4,71.51000000000002,5,4,2,54,VIP
@@ -2789,7 +2789,7 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 378,1,19.94,1,2,1,12,Hibernating
 34,4,410.0800000000001,4,4,5,44,Loyal Customer
 336,1,69.01,1,2,2,12,Hibernating
-9,2,79.75000000000001,5,3,2,53,Potintial Loyalist
+9,2,79.75000000000001,5,3,2,53,Potential Loyalist
 71,3,137.5,3,4,3,34,Loyal Customer
 56,2,87.58000000000001,3,3,2,33,Need Attention
 74,1,56.2,3,2,2,32,About to Sleep
@@ -2816,35 +2816,35 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 49,1,101.75999999999999,3,2,3,32,About to Sleep
 151,3,81.01999999999998,2,4,2,24,At Risk
 125,1,188.98,2,2,4,22,Hibernating
-27,1,21.930000000000007,4,2,1,42,Potintial Loyalist
+27,1,21.930000000000007,4,2,1,42,Potential Loyalist
 30,9,841.03,4,5,5,45,Loyal Customer
 72,1,44.669999999999995,3,2,2,32,About to Sleep
 16,5,257.33,5,4,4,54,VIP
 53,12,365.7399999999999,3,5,5,35,Loyal Customer
 11,14,159.14999999999998,5,5,3,55,VIP
 21,3,261.05999999999995,5,4,4,54,VIP
-17,1,137.26999999999995,5,2,3,52,Potintial Loyalist
+17,1,137.26999999999995,5,2,3,52,Potential Loyalist
 18,3,59.7,5,4,2,54,VIP
-23,1,24.92,4,2,1,42,Potintial Loyalist
-36,1,86.32000000000001,4,2,2,42,Potintial Loyalist
+23,1,24.92,4,2,1,42,Potential Loyalist
+36,1,86.32000000000001,4,2,2,42,Potential Loyalist
 18,6,124.57,5,5,3,55,VIP
 79,1,33.92,2,2,1,22,Hibernating
 9,7,312.07,5,5,4,55,VIP
 224,3,195.74999999999997,1,4,4,14,At Risk
-25,1,153.70999999999998,4,2,3,42,Potintial Loyalist
+25,1,153.70999999999998,4,2,3,42,Potential Loyalist
 77,1,71.09,2,2,2,22,Hibernating
 78,4,189.74999999999997,2,4,4,24,At Risk
 90,1,40.550000000000004,2,2,1,22,Hibernating
 51,3,491.4,3,4,5,34,Loyal Customer
-24,2,83.65000000000002,4,3,2,43,Potintial Loyalist
+24,2,83.65000000000002,4,3,2,43,Potential Loyalist
 44,3,699.1400000000001,3,4,5,34,Loyal Customer
 112,2,22.25,2,3,1,23,At Risk
-37,2,185.24999999999997,4,3,4,43,Potintial Loyalist
+37,2,185.24999999999997,4,3,4,43,Potential Loyalist
 50,2,110.16000000000001,3,3,3,33,Need Attention
 38,5,852.66,4,4,5,44,Loyal Customer
 71,2,93.97,3,3,3,33,Need Attention
 8,3,157.25999999999993,5,4,3,54,VIP
-29,1,144.01,4,2,3,42,Potintial Loyalist
+29,1,144.01,4,2,3,42,Potential Loyalist
 37,4,255.39,4,4,4,44,Loyal Customer
 295,1,37.3,1,2,1,12,Hibernating
 178,3,119.55000000000001,2,4,3,24,At Risk
@@ -2854,10 +2854,10 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 35,9,933.7500000000001,4,5,5,45,Loyal Customer
 118,1,15.2,2,2,1,22,Hibernating
 270,1,30.740000000000002,1,2,1,12,Hibernating
-31,1,101.05,4,2,3,42,Potintial Loyalist
+31,1,101.05,4,2,3,42,Potential Loyalist
 37,8,558.73,4,5,5,45,Loyal Customer
 21,11,301.49,5,5,4,55,VIP
-11,1,143.5999999999999,5,2,3,52,Potintial Loyalist
+11,1,143.5999999999999,5,2,3,52,Potential Loyalist
 92,2,284.4,2,3,4,23,At Risk
 31,4,207.76999999999998,4,4,4,44,Loyal Customer
 233,1,66.44999999999999,1,2,2,12,Hibernating
@@ -2865,24 +2865,24 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 376,1,3.73,1,2,1,12,Hibernating
 11,3,325.21000000000004,5,4,4,54,VIP
 35,4,229.07999999999996,4,4,4,44,Loyal Customer
-17,1,106.39000000000001,5,2,3,52,Potintial Loyalist
+17,1,106.39000000000001,5,2,3,52,Potential Loyalist
 73,3,164.95000000000002,3,4,3,34,Loyal Customer
 225,2,218.03,1,3,4,13,At Risk
 32,6,279.61,4,5,4,45,Loyal Customer
 134,1,5.95,2,2,1,22,Hibernating
 50,2,189.91999999999996,3,3,4,33,Need Attention
 219,2,93.27000000000001,1,3,3,13,At Risk
-38,1,1.65,4,2,1,42,Potintial Loyalist
+38,1,1.65,4,2,1,42,Potential Loyalist
 18,3,254.29,5,4,4,54,VIP
 11,47,487.25,5,5,5,55,VIP
-24,1,26.75,4,2,1,42,Potintial Loyalist
+24,1,26.75,4,2,1,42,Potential Loyalist
 55,3,285.45000000000005,3,4,4,34,Loyal Customer
 23,6,119.92,4,5,3,45,Loyal Customer
 50,1,37.900000000000006,3,2,1,32,About to Sleep
 88,5,288.33,2,4,4,24,At Risk
 154,3,440.88,2,4,5,24,At Risk
 310,3,89.93,1,4,2,14,At Risk
-23,2,43.54999999999999,4,3,2,43,Potintial Loyalist
+23,2,43.54999999999999,4,3,2,43,Potential Loyalist
 364,1,42.05,1,2,1,12,Hibernating
 135,1,73.4,2,2,2,22,Hibernating
 59,3,194.05999999999997,3,4,4,34,Loyal Customer
@@ -2909,14 +2909,14 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 38,7,766.9100000000001,4,5,5,45,Loyal Customer
 35,3,135.59,4,4,3,44,Loyal Customer
 76,2,177.00999999999993,3,3,4,33,Need Attention
-16,1,16.740000000000002,5,2,1,52,Potintial Loyalist
+16,1,16.740000000000002,5,2,1,52,Potential Loyalist
 73,1,84.25,3,2,2,32,About to Sleep
 13,5,260.08,5,4,4,54,VIP
 324,1,42.1,1,2,1,12,Hibernating
 74,4,325.69000000000005,3,4,4,34,Loyal Customer
 179,1,47.89000000000001,2,2,2,22,Hibernating
 219,2,70.3,1,3,2,13,At Risk
-22,2,44.8,4,3,2,43,Potintial Loyalist
+22,2,44.8,4,3,2,43,Potential Loyalist
 78,1,31.09,2,2,1,22,Hibernating
 55,1,105.94,3,2,3,32,About to Sleep
 182,1,58.760000000000005,1,2,2,12,Hibernating
@@ -2925,7 +2925,7 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 55,17,758.53,3,5,5,35,Loyal Customer
 16,6,392.17,5,5,5,55,VIP
 16,3,56.15,5,4,2,54,VIP
-25,1,499.16999999999996,4,2,5,42,Potintial Loyalist
+25,1,499.16999999999996,4,2,5,42,Potential Loyalist
 262,1,125.24000000000001,1,2,3,12,Hibernating
 37,7,494.94000000000005,4,5,5,45,Loyal Customer
 214,1,74.49000000000001,1,2,2,12,Hibernating
@@ -2947,7 +2947,7 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 310,1,17.65,1,2,1,12,Hibernating
 23,4,141.01,4,4,3,44,Loyal Customer
 284,1,111.99,1,2,3,12,Hibernating
-27,1,70.31,4,2,2,42,Potintial Loyalist
+27,1,70.31,4,2,2,42,Potential Loyalist
 283,1,2.0500000000000003,1,2,1,12,Hibernating
 183,3,80.4,1,4,2,14,At Risk
 15,7,482.94999999999993,5,5,5,55,VIP
@@ -2956,20 +2956,20 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 43,1,20.650000000000002,3,2,1,32,About to Sleep
 233,1,24.379999999999995,1,2,1,12,Hibernating
 161,4,30.59,2,4,1,24,At Risk
-17,1,9.74,5,2,1,52,Potintial Loyalist
+17,1,9.74,5,2,1,52,Potential Loyalist
 14,4,129.38000000000002,5,4,3,54,VIP
 188,1,55.22,1,2,2,12,Hibernating
 241,1,30.150000000000002,1,2,1,12,Hibernating
 39,24,4461.12,4,5,5,45,Loyal Customer
 10,14,1410.3999999999999,5,5,5,55,VIP
 65,4,173.26000000000002,3,4,4,34,Loyal Customer
-15,1,23.19,5,2,1,52,Potintial Loyalist
+15,1,23.19,5,2,1,52,Potential Loyalist
 38,20,378.30999999999995,4,5,5,45,Loyal Customer
 28,5,437.7400000000001,4,4,5,44,Loyal Customer
 147,4,97.49,2,4,3,24,At Risk
 17,10,886.3200000000002,5,5,5,55,VIP
 8,19,1039.06,5,5,5,55,VIP
-39,1,67.3,4,2,2,42,Potintial Loyalist
+39,1,67.3,4,2,2,42,Potential Loyalist
 39,6,560.96,4,5,5,45,Loyal Customer
 118,1,40.519999999999996,2,2,1,22,Hibernating
 42,5,154.18,4,4,3,44,Loyal Customer
@@ -2984,21 +2984,21 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 308,1,97.6,1,2,3,12,Hibernating
 268,1,13.05,1,2,1,12,Hibernating
 67,1,45.75000000000001,3,2,2,32,About to Sleep
-15,2,42.900000000000006,5,3,2,53,Potintial Loyalist
+15,2,42.900000000000006,5,3,2,53,Potential Loyalist
 74,3,128.67,3,4,3,34,Loyal Customer
 235,2,55.480000000000004,1,3,2,13,At Risk
 86,2,83.84,2,3,2,23,At Risk
 28,4,218.27,4,4,4,44,Loyal Customer
 92,1,14.030000000000001,2,2,1,22,Hibernating
-42,2,94.1,4,3,3,43,Potintial Loyalist
+42,2,94.1,4,3,3,43,Potential Loyalist
 17,12,459.4699999999999,5,5,5,55,VIP
 32,5,215.88,4,4,4,44,Loyal Customer
 18,4,772.1899999999999,5,4,5,54,VIP
 8,3,65.54,5,4,2,54,VIP
-27,1,32.75,4,2,1,42,Potintial Loyalist
+27,1,32.75,4,2,1,42,Potential Loyalist
 16,7,162.81,5,5,3,55,VIP
-32,2,122.14,4,3,3,43,Potintial Loyalist
-30,1,43.85,4,2,2,42,Potintial Loyalist
+32,2,122.14,4,3,3,43,Potential Loyalist
+30,1,43.85,4,2,2,42,Potential Loyalist
 204,2,35.7,1,3,1,13,At Risk
 46,2,97.63000000000001,3,3,3,33,Need Attention
 41,11,305.00000000000006,4,5,4,45,Loyal Customer
@@ -3021,7 +3021,7 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 80,4,178.50999999999993,2,4,4,24,At Risk
 10,6,134.32,5,5,3,55,VIP
 51,1,129.67000000000002,3,2,3,32,About to Sleep
-39,1,18.350000000000005,4,2,1,42,Potintial Loyalist
+39,1,18.350000000000005,4,2,1,42,Potential Loyalist
 343,1,47.55,1,2,2,12,Hibernating
 57,1,49.02,3,2,2,32,About to Sleep
 64,1,66.06,3,2,2,32,About to Sleep
@@ -3039,7 +3039,7 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 10,6,212.39999999999995,5,5,4,55,VIP
 64,3,23.999999999999996,3,4,1,34,Loyal Customer
 182,4,205.32999999999998,1,4,4,14,At Risk
-36,1,127.55000000000001,4,2,3,42,Potintial Loyalist
+36,1,127.55000000000001,4,2,3,42,Potential Loyalist
 211,1,42.0,1,2,1,12,Hibernating
 263,1,35.510000000000005,1,2,1,12,Hibernating
 29,7,68.16999999999999,4,5,2,45,Loyal Customer
@@ -3054,8 +3054,8 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 175,1,57.760000000000005,2,2,2,22,Hibernating
 21,15,730.84,5,5,5,55,VIP
 31,9,1021.12,4,5,5,45,Loyal Customer
-32,1,16.02,4,2,1,42,Potintial Loyalist
-35,2,19.85,4,3,1,43,Potintial Loyalist
+32,1,16.02,4,2,1,42,Potential Loyalist
+35,2,19.85,4,3,1,43,Potential Loyalist
 60,2,31.409999999999997,3,3,1,33,Need Attention
 50,1,1.25,3,2,1,32,About to Sleep
 53,3,245.01,3,4,4,34,Loyal Customer
@@ -3078,12 +3078,12 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 8,9,567.6099999999999,5,5,5,55,VIP
 11,5,432.3499999999999,5,4,5,54,VIP
 10,8,826.1500000000001,5,5,5,55,VIP
-18,2,279.5300000000001,5,3,4,53,Potintial Loyalist
+18,2,279.5300000000001,5,3,4,53,Potential Loyalist
 8,11,271.0,5,5,4,55,VIP
 85,2,228.75,2,3,4,23,At Risk
 46,1,40.650000000000006,3,2,1,32,About to Sleep
 13,8,739.8,5,5,5,55,VIP
-25,2,235.42,4,3,4,43,Potintial Loyalist
+25,2,235.42,4,3,4,43,Potential Loyalist
 34,3,262.01,4,4,4,44,Loyal Customer
 290,1,76.08,1,2,2,12,Hibernating
 45,3,581.29,3,4,5,34,Loyal Customer
@@ -3091,21 +3091,21 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 35,9,389.12,4,5,5,45,Loyal Customer
 147,5,580.88,2,4,5,24,At Risk
 178,1,81.33999999999999,2,2,2,22,Hibernating
-37,1,87.71,4,2,2,42,Potintial Loyalist
+37,1,87.71,4,2,2,42,Potential Loyalist
 267,1,35.68000000000001,1,2,1,12,Hibernating
 134,13,199.87999999999997,2,5,4,25,Can't Loose
 98,7,265.69,2,5,4,25,Can't Loose
 25,23,1251.21,4,5,5,45,Loyal Customer
 30,9,174.27999999999997,4,5,4,45,Loyal Customer
 233,2,187.28999999999994,1,3,4,13,At Risk
-14,1,25.450000000000003,5,2,1,52,Potintial Loyalist
+14,1,25.450000000000003,5,2,1,52,Potential Loyalist
 169,4,21.020000000000003,2,4,1,24,At Risk
 109,4,316.06999999999994,2,4,4,24,At Risk
 46,6,175.26999999999998,3,5,4,35,Loyal Customer
 51,1,16.91,3,2,1,32,About to Sleep
 72,1,27.449999999999996,3,2,1,32,About to Sleep
 380,1,64.95,1,2,2,12,Hibernating
-24,1,132.28,4,2,3,42,Potintial Loyalist
+24,1,132.28,4,2,3,42,Potential Loyalist
 60,4,107.58,3,4,3,34,Loyal Customer
 25,6,371.34999999999997,4,5,5,45,Loyal Customer
 120,3,277.59000000000003,2,4,4,24,At Risk
@@ -3119,7 +3119,7 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 55,3,360.61,3,4,4,34,Loyal Customer
 8,31,1407.4299999999998,5,5,5,55,VIP
 49,1,122.23,3,2,3,32,About to Sleep
-14,2,226.34999999999997,5,3,4,53,Potintial Loyalist
+14,2,226.34999999999997,5,3,4,53,Potential Loyalist
 7,26,4521.13,5,5,5,55,VIP
 78,1,83.45,2,2,2,22,Hibernating
 18,4,317.36,5,4,4,54,VIP
@@ -3143,13 +3143,13 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 95,2,184.15000000000003,2,3,4,23,At Risk
 10,5,136.67999999999998,5,4,3,54,VIP
 107,2,46.80000000000001,2,3,2,23,At Risk
-23,1,54.7,4,2,2,42,Potintial Loyalist
+23,1,54.7,4,2,2,42,Potential Loyalist
 328,1,27.979999999999997,1,2,1,12,Hibernating
 29,6,337.82,4,5,4,45,Loyal Customer
-35,1,32.1,4,2,1,42,Potintial Loyalist
+35,1,32.1,4,2,1,42,Potential Loyalist
 20,3,103.69999999999999,5,4,3,54,VIP
 35,5,59.53,4,4,2,44,Loyal Customer
-30,1,73.10000000000001,4,2,2,42,Potintial Loyalist
+30,1,73.10000000000001,4,2,2,42,Potential Loyalist
 84,3,167.63999999999996,2,4,3,24,At Risk
 206,1,16.700000000000003,1,2,1,12,Hibernating
 70,2,18.490000000000002,3,3,1,33,Need Attention
@@ -3175,7 +3175,7 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 94,3,199.54999999999998,2,4,4,24,At Risk
 32,3,112.75000000000001,4,4,3,44,Loyal Customer
 189,4,81.91,1,4,2,14,At Risk
-8,2,59.37000000000001,5,3,2,53,Potintial Loyalist
+8,2,59.37000000000001,5,3,2,53,Potential Loyalist
 76,2,36.94,3,3,1,33,Need Attention
 43,1,25.37,3,2,1,32,About to Sleep
 331,1,9.170000000000002,1,2,1,12,Hibernating
@@ -3183,28 +3183,28 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 111,1,77.96,2,2,2,22,Hibernating
 69,3,34.910000000000004,3,4,1,34,Loyal Customer
 71,6,546.11,3,5,5,35,Loyal Customer
-21,1,102.97,5,2,3,52,Potintial Loyalist
+21,1,102.97,5,2,3,52,Potential Loyalist
 79,6,368.5,2,5,5,25,Can't Loose
 45,1,63.55,3,2,2,32,About to Sleep
 135,1,33.8,2,2,1,22,Hibernating
 13,17,829.4,5,5,5,55,VIP
 198,2,218.95,1,3,4,13,At Risk
-27,1,93.60999999999999,4,2,3,42,Potintial Loyalist
+27,1,93.60999999999999,4,2,3,42,Potential Loyalist
 98,1,30.7,2,2,1,22,Hibernating
-42,2,179.74,4,3,4,43,Potintial Loyalist
+42,2,179.74,4,3,4,43,Potential Loyalist
 42,3,161.82999999999998,4,4,3,44,Loyal Customer
 39,3,200.01,4,4,4,44,Loyal Customer
 118,2,35.88,2,3,1,23,At Risk
 13,7,934.1700000000001,5,5,5,55,VIP
 196,2,156.46,1,3,3,13,At Risk
-8,2,207.43999999999997,5,3,4,53,Potintial Loyalist
+8,2,207.43999999999997,5,3,4,53,Potential Loyalist
 144,3,813.48,2,4,5,24,At Risk
 80,4,326.13,2,4,4,24,At Risk
 197,1,103.95000000000002,1,2,3,12,Hibernating
 10,3,278.26,5,4,4,54,VIP
-20,2,132.8,5,3,3,53,Potintial Loyalist
+20,2,132.8,5,3,3,53,Potential Loyalist
 371,1,120.94000000000001,1,2,3,12,Hibernating
-22,2,279.55000000000007,4,3,4,43,Potintial Loyalist
+22,2,279.55000000000007,4,3,4,43,Potential Loyalist
 9,7,623.67,5,5,5,55,VIP
 13,11,503.14,5,5,5,55,VIP
 70,3,420.77000000000004,3,4,5,34,Loyal Customer
@@ -3230,7 +3230,7 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 31,7,695.96,4,5,5,45,Loyal Customer
 25,4,295.67,4,4,4,44,Loyal Customer
 23,3,140.05999999999997,4,4,3,44,Loyal Customer
-27,1,157.14000000000001,4,2,3,42,Potintial Loyalist
+27,1,157.14000000000001,4,2,3,42,Potential Loyalist
 141,1,97.25,2,2,3,22,Hibernating
 23,5,1515.92,4,4,5,44,Loyal Customer
 130,3,130.07999999999998,2,4,3,24,At Risk
@@ -3247,12 +3247,12 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 10,4,76.28,5,4,2,54,VIP
 77,1,159.23000000000002,2,2,3,22,Hibernating
 32,5,679.5799999999999,4,4,5,44,Loyal Customer
-30,2,90.02999999999997,4,3,2,43,Potintial Loyalist
+30,2,90.02999999999997,4,3,2,43,Potential Loyalist
 51,1,40.24,3,2,1,32,About to Sleep
 375,2,27.3,1,3,1,13,At Risk
 268,1,11.9,1,2,1,12,Hibernating
-24,2,369.59999999999997,4,3,5,43,Potintial Loyalist
-28,1,12.7,4,2,1,42,Potintial Loyalist
+24,2,369.59999999999997,4,3,5,43,Potential Loyalist
+28,1,12.7,4,2,1,42,Potential Loyalist
 164,2,42.5,2,3,2,23,At Risk
 65,3,106.95,3,4,3,34,Loyal Customer
 37,4,147.59999999999997,4,4,3,44,Loyal Customer
@@ -3264,17 +3264,17 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 18,11,477.20000000000005,5,5,5,55,VIP
 87,9,538.25,2,5,5,25,Can't Loose
 18,4,482.81999999999994,5,4,5,54,VIP
-21,1,65.3,5,2,2,52,Potintial Loyalist
+21,1,65.3,5,2,2,52,Potential Loyalist
 63,1,169.05,3,2,3,32,About to Sleep
 29,8,960.3700000000001,4,5,5,45,Loyal Customer
 105,2,205.94999999999996,2,3,4,23,At Risk
 24,3,96.24,4,4,3,44,Loyal Customer
 86,1,8.0,2,2,1,22,Hibernating
-38,2,48.92,4,3,2,43,Potintial Loyalist
+38,2,48.92,4,3,2,43,Potential Loyalist
 18,8,289.49999999999994,5,5,4,55,VIP
 85,4,113.33999999999997,2,4,3,24,At Risk
 44,4,232.04999999999995,3,4,4,34,Loyal Customer
-34,2,60.44000000000001,4,3,2,43,Potintial Loyalist
+34,2,60.44000000000001,4,3,2,43,Potential Loyalist
 112,2,30.669999999999998,2,3,1,23,At Risk
 34,4,260.08000000000004,4,4,4,44,Loyal Customer
 79,1,64.44,2,2,2,22,Hibernating
@@ -3291,23 +3291,23 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 74,1,33.64999999999999,3,2,1,32,About to Sleep
 59,3,126.93,3,4,3,34,Loyal Customer
 15,4,49.63,5,4,2,54,VIP
-11,2,16.55,5,3,1,53,Potintial Loyalist
+11,2,16.55,5,3,1,53,Potential Loyalist
 88,2,42.89000000000001,2,3,2,23,At Risk
 223,3,310.24,1,4,4,14,At Risk
 78,2,53.77000000000001,2,3,2,23,At Risk
 20,3,41.55000000000001,5,4,1,54,VIP
 189,7,706.96,1,5,5,15,Can't Loose
-39,1,65.4,4,2,2,42,Potintial Loyalist
+39,1,65.4,4,2,2,42,Potential Loyalist
 51,2,68.2,3,3,2,33,Need Attention
 233,2,18.99,1,3,1,13,At Risk
-25,1,42.2,4,2,1,42,Potintial Loyalist
+25,1,42.2,4,2,1,42,Potential Loyalist
 57,1,104.21,3,2,3,32,About to Sleep
 246,1,152.26999999999998,1,2,3,12,Hibernating
 192,1,1.69,1,2,1,12,Hibernating
 39,3,139.98999999999998,4,4,3,44,Loyal Customer
 17,4,342.71999999999997,5,4,4,54,VIP
 16,10,446.12,5,5,5,55,VIP
-18,2,126.26,5,3,3,53,Potintial Loyalist
+18,2,126.26,5,3,3,53,Potential Loyalist
 86,4,101.89,2,4,3,24,At Risk
 73,3,263.74000000000007,3,4,4,34,Loyal Customer
 79,4,133.35,2,4,3,24,At Risk
@@ -3336,10 +3336,10 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 37,4,421.29,4,4,5,44,Loyal Customer
 36,4,222.85999999999999,4,4,4,44,Loyal Customer
 51,6,172.49,3,5,3,35,Loyal Customer
-38,1,343.61,4,2,4,42,Potintial Loyalist
+38,1,343.61,4,2,4,42,Potential Loyalist
 18,23,2253.6400000000003,5,5,5,55,VIP
 379,1,38.440000000000005,1,2,1,12,Hibernating
-28,1,15.399999999999999,4,2,1,42,Potintial Loyalist
+28,1,15.399999999999999,4,2,1,42,Potential Loyalist
 16,6,81.02,5,5,2,55,VIP
 9,11,759.91,5,5,5,55,VIP
 79,6,636.16,2,5,5,25,Can't Loose
@@ -3347,13 +3347,13 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 65,1,7.1,3,2,1,32,About to Sleep
 72,4,156.35999999999999,3,4,3,34,Loyal Customer
 25,7,544.8,4,5,5,45,Loyal Customer
-7,2,197.94999999999993,5,3,4,53,Potintial Loyalist
+7,2,197.94999999999993,5,3,4,53,Potential Loyalist
 23,3,110.38,4,4,3,44,Loyal Customer
 175,1,127.12,2,2,3,22,Hibernating
 36,3,132.54,4,4,3,44,Loyal Customer
 364,1,53.980000000000004,1,2,2,12,Hibernating
 65,1,86.39,3,2,2,32,About to Sleep
-31,1,232.24,4,2,4,42,Potintial Loyalist
+31,1,232.24,4,2,4,42,Potential Loyalist
 39,4,752.0900000000001,4,4,5,44,Loyal Customer
 305,1,47.25,1,2,2,12,Hibernating
 48,2,73.38000000000001,3,3,2,33,Need Attention
@@ -3399,7 +3399,7 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 21,3,247.28999999999996,5,4,4,54,VIP
 140,1,68.85,2,2,2,22,Hibernating
 220,1,75.30000000000001,1,2,2,12,Hibernating
-16,2,13.77,5,3,1,53,Potintial Loyalist
+16,2,13.77,5,3,1,53,Potential Loyalist
 303,1,63.64,1,2,2,12,Hibernating
 72,2,25.970000000000002,3,3,1,33,Need Attention
 168,2,55.83,2,3,2,23,At Risk
@@ -3417,11 +3417,11 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 45,4,482.0799999999999,3,4,5,34,Loyal Customer
 10,11,993.95,5,5,5,55,VIP
 178,1,60.72,2,2,2,22,Hibernating
-28,2,22.680000000000003,4,3,1,43,Potintial Loyalist
+28,2,22.680000000000003,4,3,1,43,Potential Loyalist
 172,1,108.96000000000001,2,2,3,22,Hibernating
 297,1,48.63999999999999,1,2,2,12,Hibernating
 69,1,229.94999999999996,3,2,4,32,About to Sleep
-7,2,233.34999999999997,5,3,4,53,Potintial Loyalist
+7,2,233.34999999999997,5,3,4,53,Potential Loyalist
 224,1,6.62,1,2,1,12,Hibernating
 29,3,53.01,4,4,2,44,Loyal Customer
 165,3,358.6,2,4,4,24,At Risk
@@ -3430,9 +3430,9 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 16,5,357.5499999999999,5,4,4,54,VIP
 58,2,18.800000000000004,3,3,1,33,Need Attention
 294,1,121.71999999999998,1,2,3,12,Hibernating
-37,1,43.739999999999995,4,2,2,42,Potintial Loyalist
+37,1,43.739999999999995,4,2,2,42,Potential Loyalist
 291,2,99.4,1,3,3,13,At Risk
-34,1,71.28999999999999,4,2,2,42,Potintial Loyalist
+34,1,71.28999999999999,4,2,2,42,Potential Loyalist
 11,6,439.67999999999995,5,5,5,55,VIP
 100,2,44.95,2,3,2,23,At Risk
 8,7,420.35,5,5,5,55,VIP
@@ -3444,7 +3444,7 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 59,7,456.6,3,5,5,35,Loyal Customer
 233,3,162.24999999999994,1,4,3,14,At Risk
 119,5,222.09000000000003,2,4,4,24,At Risk
-10,2,204.5,5,3,4,53,Potintial Loyalist
+10,2,204.5,5,3,4,53,Potential Loyalist
 143,1,17.19,2,2,1,22,Hibernating
 223,1,16.3,1,2,1,12,Hibernating
 86,2,96.71,2,3,3,23,At Risk
@@ -3455,7 +3455,7 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 90,2,102.89999999999999,2,3,3,23,At Risk
 14,7,172.67000000000002,5,5,3,55,VIP
 52,6,200.22000000000003,3,5,4,35,Loyal Customer
-17,2,185.26,5,3,4,53,Potintial Loyalist
+17,2,185.26,5,3,4,53,Potential Loyalist
 13,17,1829.25,5,5,5,55,VIP
 29,3,36.85,4,4,1,44,Loyal Customer
 238,1,11.35,1,2,1,12,Hibernating
@@ -3467,12 +3467,12 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 188,2,22.41,1,3,1,13,At Risk
 123,1,100.22000000000001,2,2,3,22,Hibernating
 70,1,39.74999999999999,3,2,1,32,About to Sleep
-24,2,145.63,4,3,3,43,Potintial Loyalist
+24,2,145.63,4,3,3,43,Potential Loyalist
 43,1,67.11999999999999,3,2,2,32,About to Sleep
-32,2,234.42,4,3,4,43,Potintial Loyalist
+32,2,234.42,4,3,4,43,Potential Loyalist
 123,3,28.189999999999998,2,4,1,24,At Risk
 78,2,26.9,2,3,1,23,At Risk
-38,2,142.84999999999994,4,3,3,43,Potintial Loyalist
+38,2,142.84999999999994,4,3,3,43,Potential Loyalist
 10,5,527.2,5,4,5,54,VIP
 53,1,21.2,3,2,1,32,About to Sleep
 151,1,104.49,2,2,3,22,Hibernating
@@ -3480,21 +3480,21 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 66,1,121.14,3,2,3,32,About to Sleep
 141,2,141.35999999999999,2,3,3,23,At Risk
 133,6,66.99999999999999,2,5,2,25,Can't Loose
-27,1,271.43,4,2,4,42,Potintial Loyalist
+27,1,271.43,4,2,4,42,Potential Loyalist
 111,2,107.68,2,3,3,23,At Risk
 378,1,137.47,1,2,3,12,Hibernating
 66,1,20.9,3,2,1,32,About to Sleep
-37,1,174.7,4,2,4,42,Potintial Loyalist
-25,1,65.24000000000001,4,2,2,42,Potintial Loyalist
+37,1,174.7,4,2,4,42,Potential Loyalist
+25,1,65.24000000000001,4,2,2,42,Potential Loyalist
 44,1,133.19,3,2,3,32,About to Sleep
 207,1,4.6,1,2,1,12,Hibernating
 80,1,10.08,2,2,1,22,Hibernating
 16,4,11.8,5,4,1,54,VIP
 98,2,295.91,2,3,4,23,At Risk
-20,1,34.81,5,2,1,52,Potintial Loyalist
-31,1,143.45,4,2,3,42,Potintial Loyalist
+20,1,34.81,5,2,1,52,Potential Loyalist
+31,1,143.45,4,2,3,42,Potential Loyalist
 270,2,205.03999999999996,1,3,4,13,At Risk
-42,2,88.95000000000002,4,3,2,43,Potintial Loyalist
+42,2,88.95000000000002,4,3,2,43,Potential Loyalist
 9,16,1077.75,5,5,5,55,VIP
 32,4,441.87,4,4,5,44,Loyal Customer
 18,6,364.34000000000003,5,5,5,55,VIP
@@ -3505,12 +3505,12 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 372,1,111.45,1,2,3,12,Hibernating
 16,3,60.27000000000001,5,4,2,54,VIP
 81,2,109.77000000000001,2,3,3,23,At Risk
-32,2,88.93000000000002,4,3,2,43,Potintial Loyalist
+32,2,88.93000000000002,4,3,2,43,Potential Loyalist
 266,1,94.29999999999997,1,2,3,12,Hibernating
 176,1,15.84,2,2,1,22,Hibernating
 290,1,13.85,1,2,1,12,Hibernating
 37,7,83.00000000000001,4,5,2,45,Loyal Customer
-23,2,86.8,4,3,2,43,Potintial Loyalist
+23,2,86.8,4,3,2,43,Potential Loyalist
 34,4,154.76999999999995,4,4,3,44,Loyal Customer
 35,9,341.07000000000005,4,5,4,45,Loyal Customer
 17,5,883.95,5,4,5,54,VIP
@@ -3530,10 +3530,10 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 186,1,9.95,1,2,1,12,Hibernating
 170,5,227.66999999999996,2,4,4,24,At Risk
 48,1,62.57,3,2,2,32,About to Sleep
-25,2,115.74000000000001,4,3,3,43,Potintial Loyalist
+25,2,115.74000000000001,4,3,3,43,Potential Loyalist
 114,1,1.69,2,2,1,22,Hibernating
 17,9,1571.6100000000001,5,5,5,55,VIP
-7,2,17.95,5,3,1,53,Potintial Loyalist
+7,2,17.95,5,3,1,53,Potential Loyalist
 8,8,998.23,5,5,5,55,VIP
 8,3,450.26,5,4,5,54,VIP
 21,4,131.63,5,4,3,54,VIP
@@ -3547,7 +3547,7 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 69,9,231.75,3,5,4,35,Loyal Customer
 338,1,17.25,1,2,1,12,Hibernating
 70,3,165.17999999999998,3,4,3,34,Loyal Customer
-28,1,71.08,4,2,2,42,Potintial Loyalist
+28,1,71.08,4,2,2,42,Potential Loyalist
 196,4,99.97,1,4,3,14,At Risk
 18,3,275.29999999999995,5,4,4,54,VIP
 290,1,69.9,1,2,2,12,Hibernating
@@ -3562,17 +3562,17 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 265,3,140.76999999999998,1,4,3,14,At Risk
 23,20,1258.4499999999998,4,5,5,45,Loyal Customer
 60,3,50.940000000000005,3,4,2,34,Loyal Customer
-37,1,75.38000000000001,4,2,2,42,Potintial Loyalist
+37,1,75.38000000000001,4,2,2,42,Potential Loyalist
 73,1,62.19,3,2,2,32,About to Sleep
 46,2,86.38000000000004,3,3,2,33,Need Attention
 7,60,3962.62,5,5,5,55,VIP
-16,1,10.95,5,2,1,52,Potintial Loyalist
+16,1,10.95,5,2,1,52,Potential Loyalist
 76,3,26.25,3,4,1,34,Loyal Customer
 37,5,25.2,4,4,1,44,Loyal Customer
 77,7,35.010000000000005,2,5,1,25,Can't Loose
 95,1,11.2,2,2,1,22,Hibernating
 109,1,16.35,2,2,1,22,Hibernating
-27,1,23.049999999999997,4,2,1,42,Potintial Loyalist
+27,1,23.049999999999997,4,2,1,42,Potential Loyalist
 62,5,52.47,3,4,2,34,Loyal Customer
 16,24,628.97,5,5,5,55,VIP
 62,1,32.25,3,2,1,32,About to Sleep
@@ -3590,24 +3590,24 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 53,1,52.89999999999999,3,2,2,32,About to Sleep
 142,2,23.28,2,3,1,23,At Risk
 63,8,229.91,3,5,4,35,Loyal Customer
-28,2,93.92,4,3,3,43,Potintial Loyalist
+28,2,93.92,4,3,3,43,Potential Loyalist
 14,10,376.62,5,5,5,55,VIP
 46,2,36.7,3,3,1,33,Need Attention
 65,2,2.8,3,3,1,33,Need Attention
 35,15,961.78,4,5,5,45,Loyal Customer
 190,1,43.64,1,2,2,12,Hibernating
-29,1,15.26,4,2,1,42,Potintial Loyalist
+29,1,15.26,4,2,1,42,Potential Loyalist
 9,8,337.59999999999997,5,5,4,55,VIP
 15,4,70.05,5,4,2,54,VIP
 28,3,105.51000000000002,4,4,3,44,Loyal Customer
 23,5,190.98,4,4,4,44,Loyal Customer
-35,1,25.549999999999997,4,2,1,42,Potintial Loyalist
+35,1,25.549999999999997,4,2,1,42,Potential Loyalist
 94,7,411.82,2,5,5,25,Can't Loose
 10,17,1119.49,5,5,5,55,VIP
-38,2,130.59,4,3,3,43,Potintial Loyalist
+38,2,130.59,4,3,3,43,Potential Loyalist
 7,3,72.21,5,4,2,54,VIP
 27,7,504.18,4,5,5,45,Loyal Customer
-27,1,109.5,4,2,3,42,Potintial Loyalist
+27,1,109.5,4,2,3,42,Potential Loyalist
 53,1,31.3,3,2,1,32,About to Sleep
 50,3,29.61,3,4,1,34,Loyal Customer
 171,1,163.21999999999997,2,2,3,22,Hibernating
@@ -3620,22 +3620,22 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 29,6,813.15,4,5,5,45,Loyal Customer
 9,3,150.07,5,4,3,54,VIP
 104,6,214.67999999999998,2,5,4,25,Can't Loose
-7,2,200.22999999999996,5,3,4,53,Potintial Loyalist
+7,2,200.22999999999996,5,3,4,53,Potential Loyalist
 21,9,104.29,5,5,3,55,VIP
-23,1,82.24,4,2,2,42,Potintial Loyalist
+23,1,82.24,4,2,2,42,Potential Loyalist
 14,12,389.07,5,5,5,55,VIP
 202,2,290.90999999999997,1,3,4,13,At Risk
 164,2,70.06,2,3,2,23,At Risk
 67,7,423.1,3,5,5,35,Loyal Customer
-37,1,26.499999999999996,4,2,1,42,Potintial Loyalist
-17,1,2.55,5,2,1,52,Potintial Loyalist
+37,1,26.499999999999996,4,2,1,42,Potential Loyalist
+17,1,2.55,5,2,1,52,Potential Loyalist
 42,12,621.94,4,5,5,45,Loyal Customer
 9,7,172.09999999999994,5,5,3,55,VIP
 116,1,53.3,2,2,2,22,Hibernating
 270,1,151.42,1,2,3,12,Hibernating
 50,2,91.64999999999999,3,3,3,33,Need Attention
 241,1,36.05,1,2,1,12,Hibernating
-37,2,146.78999999999996,4,3,3,43,Potintial Loyalist
+37,2,146.78999999999996,4,3,3,43,Potential Loyalist
 254,2,264.58000000000004,1,3,4,13,At Risk
 50,2,138.03,3,3,3,33,Need Attention
 274,1,35.94,1,2,1,12,Hibernating
@@ -3645,14 +3645,14 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 218,2,32.6,1,3,1,13,At Risk
 370,1,28.55,1,2,1,12,Hibernating
 283,1,55.699999999999996,1,2,2,12,Hibernating
-30,2,113.65,4,3,3,43,Potintial Loyalist
+30,2,113.65,4,3,3,43,Potential Loyalist
 9,8,155.41000000000003,5,5,3,55,VIP
 120,2,106.30000000000001,2,3,3,23,At Risk
-27,1,23.19,4,2,1,42,Potintial Loyalist
+27,1,23.19,4,2,1,42,Potential Loyalist
 143,1,12.85,2,2,1,22,Hibernating
-32,1,84.58999999999999,4,2,2,42,Potintial Loyalist
+32,1,84.58999999999999,4,2,2,42,Potential Loyalist
 205,3,179.37999999999997,1,4,4,14,At Risk
-32,2,33.400000000000006,4,3,1,43,Potintial Loyalist
+32,2,33.400000000000006,4,3,1,43,Potential Loyalist
 203,1,101.66000000000001,1,2,3,12,Hibernating
 22,9,532.99,4,5,5,45,Loyal Customer
 192,3,161.26999999999998,1,4,3,14,At Risk
@@ -3663,17 +3663,17 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 50,2,41.95,3,3,1,33,Need Attention
 311,1,105.1,1,2,3,12,Hibernating
 36,5,412.82000000000005,4,4,5,44,Loyal Customer
-20,1,132.12,5,2,3,52,Potintial Loyalist
+20,1,132.12,5,2,3,52,Potential Loyalist
 67,2,184.04999999999995,3,3,4,33,Need Attention
 10,10,365.0,5,5,5,55,VIP
-36,2,99.6,4,3,3,43,Potintial Loyalist
+36,2,99.6,4,3,3,43,Potential Loyalist
 80,2,81.50999999999999,2,3,2,23,At Risk
-39,2,77.35000000000002,4,3,2,43,Potintial Loyalist
+39,2,77.35000000000002,4,3,2,43,Potential Loyalist
 7,9,408.43,5,5,5,55,VIP
 252,2,268.56,1,3,4,13,At Risk
 7,3,337.77,5,4,4,54,VIP
 169,2,189.90000000000003,2,3,4,23,At Risk
-27,1,10.47,4,2,1,42,Potintial Loyalist
+27,1,10.47,4,2,1,42,Potential Loyalist
 76,1,1.45,3,2,1,32,About to Sleep
 93,4,230.87999999999997,2,4,4,24,At Risk
 62,2,34.29,3,3,1,33,Need Attention
@@ -3684,21 +3684,21 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 191,1,45.199999999999996,1,2,2,12,Hibernating
 32,3,284.36999999999995,4,4,4,44,Loyal Customer
 32,3,292.05,4,4,4,44,Loyal Customer
-17,2,108.70000000000002,5,3,3,53,Potintial Loyalist
+17,2,108.70000000000002,5,3,3,53,Potential Loyalist
 20,3,51.489999999999995,5,4,2,54,VIP
 39,6,849.3399999999999,4,5,5,45,Loyal Customer
 14,10,286.94,5,5,4,55,VIP
 114,1,4.25,2,2,1,22,Hibernating
 67,3,296.52,3,4,4,34,Loyal Customer
-21,1,17.97,5,2,1,52,Potintial Loyalist
+21,1,17.97,5,2,1,52,Potential Loyalist
 374,1,8.5,1,2,1,12,Hibernating
-35,1,125.92000000000002,4,2,3,42,Potintial Loyalist
+35,1,125.92000000000002,4,2,3,42,Potential Loyalist
 154,1,9.44,2,2,1,22,Hibernating
 37,4,38.05,4,4,1,44,Loyal Customer
 32,3,385.63,4,4,5,44,Loyal Customer
 220,2,71.82000000000001,1,3,2,13,At Risk
 228,1,85.39,1,2,2,12,Hibernating
-14,2,167.65000000000003,5,3,3,53,Potintial Loyalist
+14,2,167.65000000000003,5,3,3,53,Potential Loyalist
 275,1,96.89,1,2,3,12,Hibernating
 184,1,127.39000000000001,1,2,3,12,Hibernating
 15,7,57.790000000000006,5,5,2,55,VIP
@@ -3707,7 +3707,7 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 287,2,51.900000000000006,1,3,2,13,At Risk
 116,6,223.29999999999995,2,5,4,25,Can't Loose
 220,1,142.95,1,2,3,12,Hibernating
-18,2,153.69,5,3,3,53,Potintial Loyalist
+18,2,153.69,5,3,3,53,Potential Loyalist
 14,20,1137.54,5,5,5,55,VIP
 88,4,315.98,2,4,4,24,At Risk
 202,1,19.65,1,2,1,12,Hibernating
@@ -3717,21 +3717,21 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 270,1,141.18,1,2,3,12,Hibernating
 38,4,203.85999999999999,4,4,4,44,Loyal Customer
 27,14,2492.02,4,5,5,45,Loyal Customer
-9,2,336.70000000000005,5,3,4,53,Potintial Loyalist
+9,2,336.70000000000005,5,3,4,53,Potential Loyalist
 380,1,51.550000000000004,1,2,2,12,Hibernating
 51,6,579.1700000000001,3,5,5,35,Loyal Customer
 91,2,130.79999999999998,2,3,3,23,At Risk
 10,7,558.8799999999999,5,5,5,55,VIP
 60,4,171.26999999999998,3,4,3,34,Loyal Customer
-23,1,32.690000000000005,4,2,1,42,Potintial Loyalist
+23,1,32.690000000000005,4,2,1,42,Potential Loyalist
 119,1,15.45,2,2,1,22,Hibernating
-22,1,158.34999999999994,4,2,3,42,Potintial Loyalist
+22,1,158.34999999999994,4,2,3,42,Potential Loyalist
 114,8,615.3299999999999,2,5,5,25,Can't Loose
 259,3,314.01000000000005,1,4,4,14,At Risk
 64,4,322.28000000000003,3,4,4,34,Loyal Customer
 232,1,28.749999999999996,1,2,1,12,Hibernating
 379,1,13.299999999999999,1,2,1,12,Hibernating
-18,1,53.68000000000001,5,2,2,52,Potintial Loyalist
+18,1,53.68000000000001,5,2,2,52,Potential Loyalist
 91,2,124.60000000000001,2,3,3,23,At Risk
 44,6,276.35999999999996,3,5,4,35,Loyal Customer
 182,5,432.86,1,4,5,14,At Risk
@@ -3747,18 +3747,18 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 88,4,903.62,2,4,5,24,At Risk
 244,1,33.81,1,2,1,12,Hibernating
 120,1,17.18,2,2,1,22,Hibernating
-30,2,113.5,4,3,3,43,Potintial Loyalist
+30,2,113.5,4,3,3,43,Potential Loyalist
 16,4,100.34,5,4,3,54,VIP
 21,3,129.8,5,4,3,54,VIP
 66,3,170.28000000000003,3,4,3,34,Loyal Customer
 29,5,152.5,4,4,3,44,Loyal Customer
 21,5,135.29999999999998,5,4,3,54,VIP
 71,3,136.32,3,4,3,34,Loyal Customer
-15,2,107.25,5,3,3,53,Potintial Loyalist
+15,2,107.25,5,3,3,53,Potential Loyalist
 36,9,578.6400000000001,4,5,5,45,Loyal Customer
 7,10,713.78,5,5,5,55,VIP
 311,2,25.849999999999998,1,3,1,13,At Risk
-27,1,62.66,4,2,2,42,Potintial Loyalist
+27,1,62.66,4,2,2,42,Potential Loyalist
 111,2,171.90999999999997,2,3,3,23,At Risk
 140,6,295.26,2,5,4,25,Can't Loose
 8,3,111.44000000000001,5,4,3,54,VIP
@@ -3772,24 +3772,24 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 119,3,44.739999999999995,2,4,2,24,At Risk
 77,4,329.4,2,4,4,24,At Risk
 104,3,165.99,2,4,3,24,At Risk
-7,2,141.63,5,3,3,53,Potintial Loyalist
+7,2,141.63,5,3,3,53,Potential Loyalist
 59,4,379.54999999999995,3,4,5,34,Loyal Customer
 17,7,495.7800000000001,5,5,5,55,VIP
-10,1,5.46,5,2,1,52,Potintial Loyalist
+10,1,5.46,5,2,1,52,Potential Loyalist
 9,39,1093.26,5,5,5,55,VIP
 8,5,169.11999999999998,5,4,3,54,VIP
 10,26,967.31,5,5,5,55,VIP
 245,1,31.0,1,2,1,12,Hibernating
 163,5,94.05,2,4,3,24,At Risk
-25,2,25.649999999999995,4,3,1,43,Potintial Loyalist
+25,2,25.649999999999995,4,3,1,43,Potential Loyalist
 239,4,33.6,1,4,1,14,At Risk
 10,6,292.9,5,5,4,55,VIP
 27,3,96.36,4,4,3,44,Loyal Customer
 14,6,144.42,5,5,3,55,VIP
 65,2,509.3399999999999,3,3,5,33,Need Attention
 62,1,73.44,3,2,2,32,About to Sleep
-35,1,72.65,4,2,2,42,Potintial Loyalist
-30,2,26.380000000000003,4,3,1,43,Potintial Loyalist
+35,1,72.65,4,2,2,42,Potential Loyalist
+30,2,26.380000000000003,4,3,1,43,Potential Loyalist
 8,8,371.18999999999994,5,5,5,55,VIP
 10,3,109.64999999999999,5,4,3,54,VIP
 38,8,214.43,4,5,4,45,Loyal Customer
@@ -3798,7 +3798,7 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 24,19,515.22,4,5,5,45,Loyal Customer
 118,2,62.45,2,3,2,23,At Risk
 23,10,637.8400000000001,4,5,5,45,Loyal Customer
-25,2,205.70999999999998,4,3,4,43,Potintial Loyalist
+25,2,205.70999999999998,4,3,4,43,Potential Loyalist
 60,1,31.660000000000004,3,2,1,32,About to Sleep
 97,2,29.8,2,3,1,23,At Risk
 8,17,1290.81,5,5,5,55,VIP
@@ -3813,7 +3813,7 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 286,1,44.900000000000006,1,2,2,12,Hibernating
 9,7,281.62,5,5,4,55,VIP
 301,1,45.910000000000004,1,2,2,12,Hibernating
-8,2,255.41,5,3,4,53,Potintial Loyalist
+8,2,255.41,5,3,4,53,Potential Loyalist
 37,7,222.07999999999998,4,5,4,45,Loyal Customer
 46,2,254.89999999999998,3,3,4,33,Need Attention
 238,1,53.60000000000001,1,2,2,12,Hibernating
@@ -3828,7 +3828,7 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 48,2,6.800000000000001,3,3,1,33,Need Attention
 70,9,397.31,3,5,5,35,Loyal Customer
 90,1,7.3500000000000005,2,2,1,22,Hibernating
-22,1,16.37,4,2,1,42,Potintial Loyalist
+22,1,16.37,4,2,1,42,Potential Loyalist
 119,2,145.48,2,3,3,23,At Risk
 113,3,74.89999999999999,2,4,2,24,At Risk
 169,1,76.45,2,2,2,22,Hibernating
@@ -3839,28 +3839,28 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 17,3,234.52999999999997,5,4,4,54,VIP
 10,28,1617.6999999999998,5,5,5,55,VIP
 69,4,311.95000000000005,3,4,4,34,Loyal Customer
-35,2,107.79,4,3,3,43,Potintial Loyalist
+35,2,107.79,4,3,3,43,Potential Loyalist
 15,5,136.78,5,4,3,54,VIP
 98,1,32.4,2,2,1,22,Hibernating
 295,3,41.449999999999996,1,4,1,14,At Risk
 44,3,218.64,3,4,4,34,Loyal Customer
 90,1,47.82000000000001,2,2,2,22,Hibernating
-23,2,63.02000000000001,4,3,2,43,Potintial Loyalist
+23,2,63.02000000000001,4,3,2,43,Potential Loyalist
 52,1,42.2,3,2,1,32,About to Sleep
 29,3,185.67,4,4,4,44,Loyal Customer
 25,7,876.8000000000001,4,5,5,45,Loyal Customer
 78,2,39.24000000000001,2,3,1,23,At Risk
-34,1,147.49999999999994,4,2,3,42,Potintial Loyalist
+34,1,147.49999999999994,4,2,3,42,Potential Loyalist
 156,2,171.13999999999996,2,3,3,23,At Risk
 39,5,759.81,4,4,5,44,Loyal Customer
-28,2,172.76999999999998,4,3,4,43,Potintial Loyalist
+28,2,172.76999999999998,4,3,4,43,Potential Loyalist
 303,1,23.5,1,2,1,12,Hibernating
 309,3,249.51999999999995,1,4,4,14,At Risk
-24,2,51.1,4,3,2,43,Potintial Loyalist
+24,2,51.1,4,3,2,43,Potential Loyalist
 154,1,64.45,2,2,2,22,Hibernating
 192,1,70.35999999999999,1,2,2,12,Hibernating
 87,2,110.31000000000002,2,3,3,23,At Risk
-13,1,108.72,5,2,3,52,Potintial Loyalist
+13,1,108.72,5,2,3,52,Potential Loyalist
 303,1,41.6,1,2,1,12,Hibernating
 20,6,197.72000000000003,5,5,4,55,VIP
 109,2,179.22,2,3,4,23,At Risk
@@ -3871,7 +3871,7 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 31,10,1244.38,4,5,5,45,Loyal Customer
 93,3,126.91000000000001,2,4,3,24,At Risk
 14,8,845.59,5,5,5,55,VIP
-34,1,69.71,4,2,2,42,Potintial Loyalist
+34,1,69.71,4,2,2,42,Potential Loyalist
 18,3,247.71999999999997,5,4,4,54,VIP
 37,3,187.04000000000002,4,4,4,44,Loyal Customer
 190,4,89.36999999999999,1,4,2,14,At Risk
@@ -3879,18 +3879,18 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 310,2,194.28,1,3,4,13,At Risk
 16,8,800.6299999999999,5,5,5,55,VIP
 10,4,208.43,5,4,4,54,VIP
-17,2,354.99999999999994,5,3,4,53,Potintial Loyalist
-35,1,11.6,4,2,1,42,Potintial Loyalist
+17,2,354.99999999999994,5,3,4,53,Potential Loyalist
+35,1,11.6,4,2,1,42,Potential Loyalist
 7,3,47.76,5,4,2,54,VIP
 20,3,232.09999999999997,5,4,4,54,VIP
 379,1,81.06,1,2,2,12,Hibernating
 13,6,174.49,5,5,4,55,VIP
-16,1,113.89,5,2,3,52,Potintial Loyalist
+16,1,113.89,5,2,3,52,Potential Loyalist
 48,1,15.850000000000001,3,2,1,32,About to Sleep
 62,5,440.21000000000004,3,4,5,34,Loyal Customer
 63,2,237.25,3,3,4,33,Need Attention
 240,4,62.22,1,4,2,14,At Risk
-16,1,78.71,5,2,2,52,Potintial Loyalist
+16,1,78.71,5,2,2,52,Potential Loyalist
 263,1,107.76999999999998,1,2,3,12,Hibernating
 66,3,338.02000000000004,3,4,4,34,Loyal Customer
 365,1,109.36999999999998,1,2,3,12,Hibernating
@@ -3909,25 +3909,25 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 30,3,148.14000000000001,4,4,3,44,Loyal Customer
 49,3,434.47,3,4,5,34,Loyal Customer
 104,4,228.04999999999998,2,4,4,24,At Risk
-14,1,30.020000000000003,5,2,1,52,Potintial Loyalist
+14,1,30.020000000000003,5,2,1,52,Potential Loyalist
 11,18,710.15,5,5,5,55,VIP
 10,4,428.64,5,4,5,54,VIP
 27,10,692.9000000000001,4,5,5,45,Loyal Customer
 27,3,333.46,4,4,4,44,Loyal Customer
 11,7,205.78,5,5,4,55,VIP
-27,2,75.73000000000002,4,3,2,43,Potintial Loyalist
+27,2,75.73000000000002,4,3,2,43,Potential Loyalist
 17,25,2043.3700000000001,5,5,5,55,VIP
 126,2,63.15000000000001,2,3,2,23,At Risk
 52,8,234.4,3,5,4,35,Loyal Customer
-28,1,71.10000000000001,4,2,2,42,Potintial Loyalist
+28,1,71.10000000000001,4,2,2,42,Potential Loyalist
 10,3,237.69,5,4,4,54,VIP
 39,4,239.02000000000004,4,4,4,44,Loyal Customer
-23,1,34.24000000000001,4,2,1,42,Potintial Loyalist
+23,1,34.24000000000001,4,2,1,42,Potential Loyalist
 15,13,283.51000000000005,5,5,4,55,VIP
 330,1,72.38000000000001,1,2,2,12,Hibernating
-37,2,115.27,4,3,3,43,Potintial Loyalist
+37,2,115.27,4,3,3,43,Potential Loyalist
 281,2,56.650000000000006,1,3,2,13,At Risk
-21,2,146.21,5,3,3,53,Potintial Loyalist
+21,2,146.21,5,3,3,53,Potential Loyalist
 181,3,148.78,2,4,3,24,At Risk
 10,18,799.5,5,5,5,55,VIP
 79,3,259.90999999999997,2,4,4,24,At Risk
@@ -3938,13 +3938,13 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 94,2,63.57,2,3,2,23,At Risk
 163,1,3.75,2,2,1,22,Hibernating
 188,1,31.240000000000006,1,2,1,12,Hibernating
-36,1,146.68999999999997,4,2,3,42,Potintial Loyalist
+36,1,146.68999999999997,4,2,3,42,Potential Loyalist
 15,10,383.03999999999996,5,5,5,55,VIP
 282,1,43.160000000000004,1,2,2,12,Hibernating
 15,5,542.25,5,4,5,54,VIP
 379,1,44.3,1,2,2,12,Hibernating
 368,1,79.15,1,2,2,12,Hibernating
-17,1,36.60999999999999,5,2,1,52,Potintial Loyalist
+17,1,36.60999999999999,5,2,1,52,Potential Loyalist
 42,12,1209.1,4,5,5,45,Loyal Customer
 193,1,81.4,1,2,2,12,Hibernating
 270,2,22.32,1,3,1,13,At Risk
@@ -3954,7 +3954,7 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 21,6,704.83,5,5,5,55,VIP
 185,1,37.05,1,2,1,12,Hibernating
 169,2,6.3,2,3,1,23,At Risk
-15,2,21.6,5,3,1,53,Potintial Loyalist
+15,2,21.6,5,3,1,53,Potential Loyalist
 86,3,73.00000000000003,2,4,2,24,At Risk
 363,1,30.15,1,2,1,12,Hibernating
 213,1,6.1,1,2,1,12,Hibernating
@@ -3970,7 +3970,7 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 338,3,146.20999999999998,1,4,3,14,At Risk
 87,6,41.13,2,5,1,25,Can't Loose
 7,6,345.9,5,5,4,55,VIP
-15,2,42.27000000000001,5,3,2,53,Potintial Loyalist
+15,2,42.27000000000001,5,3,2,53,Potential Loyalist
 20,4,224.47,5,4,4,54,VIP
 182,1,71.94000000000001,1,2,2,12,Hibernating
 9,9,745.3,5,5,5,55,VIP
@@ -3981,47 +3981,47 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 14,62,1044.51,5,5,5,55,VIP
 191,3,322.2700000000001,1,4,4,14,At Risk
 113,4,295.7799999999999,2,4,4,24,At Risk
-14,1,124.66000000000001,5,2,3,52,Potintial Loyalist
+14,1,124.66000000000001,5,2,3,52,Potential Loyalist
 7,17,1569.23,5,5,5,55,VIP
 233,5,60.74000000000001,1,4,2,14,At Risk
-13,2,147.72999999999996,5,3,3,53,Potintial Loyalist
+13,2,147.72999999999996,5,3,3,53,Potential Loyalist
 15,4,238.60999999999996,5,4,4,54,VIP
 144,18,913.7000000000002,2,5,5,25,Can't Loose
 190,1,65.73999999999998,1,2,2,12,Hibernating
 23,3,422.58,4,4,5,44,Loyal Customer
 8,12,672.0500000000001,5,5,5,55,VIP
-14,1,208.23000000000002,5,2,4,52,Potintial Loyalist
-42,1,107.04,4,2,3,42,Potintial Loyalist
+14,1,208.23000000000002,5,2,4,52,Potential Loyalist
+42,1,107.04,4,2,3,42,Potential Loyalist
 7,4,193.92999999999998,5,4,4,54,VIP
-35,1,93.74000000000002,4,2,3,42,Potintial Loyalist
+35,1,93.74000000000002,4,2,3,42,Potential Loyalist
 52,1,26.379999999999995,3,2,1,32,About to Sleep
 322,1,25.66,1,2,1,12,Hibernating
-37,1,67.41999999999999,4,2,2,42,Potintial Loyalist
+37,1,67.41999999999999,4,2,2,42,Potential Loyalist
 34,4,425.01,4,4,5,44,Loyal Customer
 18,4,329.52,5,4,4,54,VIP
 129,7,234.0,2,5,4,25,Can't Loose
-21,1,54.2,5,2,2,52,Potintial Loyalist
+21,1,54.2,5,2,2,52,Potential Loyalist
 22,3,78.18,4,4,2,44,Loyal Customer
 233,1,126.92999999999999,1,2,3,12,Hibernating
-31,1,125.08000000000001,4,2,3,42,Potintial Loyalist
+31,1,125.08000000000001,4,2,3,42,Potential Loyalist
 259,1,139.89000000000001,1,2,3,12,Hibernating
 30,7,517.15,4,5,5,45,Loyal Customer
-24,2,100.92,4,3,3,43,Potintial Loyalist
+24,2,100.92,4,3,3,43,Potential Loyalist
 21,3,214.17000000000002,5,4,4,54,VIP
 22,3,174.28,4,4,4,44,Loyal Customer
-8,2,239.02000000000004,5,3,4,53,Potintial Loyalist
+8,2,239.02000000000004,5,3,4,53,Potential Loyalist
 206,1,10.66,1,2,1,12,Hibernating
 91,4,148.95999999999995,2,4,3,24,At Risk
 17,4,160.97,5,4,3,54,VIP
-18,1,43.059999999999995,5,2,2,52,Potintial Loyalist
+18,1,43.059999999999995,5,2,2,52,Potential Loyalist
 23,3,155.35999999999999,4,4,3,44,Loyal Customer
-34,1,64.36,4,2,2,42,Potintial Loyalist
+34,1,64.36,4,2,2,42,Potential Loyalist
 65,8,245.44,3,5,4,35,Loyal Customer
 184,7,573.4599999999999,1,5,5,15,Can't Loose
-15,2,248.40999999999997,5,3,4,53,Potintial Loyalist
+15,2,248.40999999999997,5,3,4,53,Potential Loyalist
 365,1,39.64000000000001,1,2,1,12,Hibernating
 52,2,161.5,3,3,3,33,Need Attention
-41,2,36.519999999999996,4,3,1,43,Potintial Loyalist
+41,2,36.519999999999996,4,3,1,43,Potential Loyalist
 185,1,42.449999999999996,1,2,2,12,Hibernating
 151,2,81.15,2,3,2,23,At Risk
 27,4,549.5,4,4,5,44,Loyal Customer
@@ -4029,25 +4029,25 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 142,2,64.09,2,3,2,23,At Risk
 225,1,10.15,1,2,1,12,Hibernating
 284,1,31.299999999999997,1,2,1,12,Hibernating
-20,1,108.57000000000002,5,2,3,52,Potintial Loyalist
-17,1,170.97,5,2,3,52,Potintial Loyalist
-27,2,3.79,4,3,1,43,Potintial Loyalist
+20,1,108.57000000000002,5,2,3,52,Potential Loyalist
+17,1,170.97,5,2,3,52,Potential Loyalist
+27,2,3.79,4,3,1,43,Potential Loyalist
 27,8,618.79,4,5,5,45,Loyal Customer
 63,8,63.20000000000001,3,5,2,35,Loyal Customer
 198,1,52.2,1,2,2,12,Hibernating
 16,4,332.29999999999995,5,4,4,54,VIP
 7,20,992.62,5,5,5,55,VIP
 183,1,30.45,1,2,1,12,Hibernating
-8,1,181.56999999999994,5,2,4,52,Potintial Loyalist
+8,1,181.56999999999994,5,2,4,52,Potential Loyalist
 29,8,303.32,4,5,4,45,Loyal Customer
 291,1,120.78,1,2,3,12,Hibernating
-23,2,238.68999999999994,4,3,4,43,Potintial Loyalist
+23,2,238.68999999999994,4,3,4,43,Potential Loyalist
 135,1,138.06999999999996,2,2,3,22,Hibernating
 79,2,195.11999999999995,2,3,4,23,At Risk
-35,1,61.57,4,2,2,42,Potintial Loyalist
+35,1,61.57,4,2,2,42,Potential Loyalist
 276,7,98.71999999999997,1,5,3,15,Can't Loose
 167,2,39.3,2,3,1,23,At Risk
-34,1,27.15,4,2,1,42,Potintial Loyalist
+34,1,27.15,4,2,1,42,Potential Loyalist
 9,5,955.4200000000001,5,4,5,54,VIP
 260,1,20.900000000000002,1,2,1,12,Hibernating
 35,3,405.42999999999995,4,4,5,44,Loyal Customer
@@ -4055,21 +4055,21 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 50,2,236.60000000000002,3,3,4,33,Need Attention
 8,19,245.92999999999995,5,5,4,55,VIP
 28,3,79.05000000000001,4,4,2,44,Loyal Customer
-32,2,11.299999999999999,4,3,1,43,Potintial Loyalist
+32,2,11.299999999999999,4,3,1,43,Potential Loyalist
 88,8,110.66999999999997,2,5,3,25,Can't Loose
 30,13,756.8400000000001,4,5,5,45,Loyal Customer
-28,2,173.72,4,3,4,43,Potintial Loyalist
+28,2,173.72,4,3,4,43,Potential Loyalist
 25,6,1109.72,4,5,5,45,Loyal Customer
 311,1,34.400000000000006,1,2,1,12,Hibernating
 7,5,175.43999999999997,5,4,4,54,VIP
-15,2,196.46999999999997,5,3,4,53,Potintial Loyalist
+15,2,196.46999999999997,5,3,4,53,Potential Loyalist
 16,10,545.76,5,5,5,55,VIP
-22,1,18.04,4,2,1,42,Potintial Loyalist
+22,1,18.04,4,2,1,42,Potential Loyalist
 8,8,227.03999999999996,5,5,4,55,VIP
 67,2,123.65000000000002,3,3,3,33,Need Attention
 133,1,10.07,2,2,1,22,Hibernating
-39,1,122.85999999999999,4,2,3,42,Potintial Loyalist
-25,1,23.599999999999998,4,2,1,42,Potintial Loyalist
+39,1,122.85999999999999,4,2,3,42,Potential Loyalist
+25,1,23.599999999999998,4,2,1,42,Potential Loyalist
 15,3,142.34999999999997,5,4,3,54,VIP
 21,12,206.51,5,5,4,55,VIP
 88,1,57.849999999999994,2,2,2,22,Hibernating
@@ -4081,7 +4081,7 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 69,3,51.730000000000004,3,4,2,34,Loyal Customer
 84,3,442.2900000000001,2,4,5,24,At Risk
 27,5,123.71000000000001,4,4,3,44,Loyal Customer
-38,1,288.58,4,2,4,42,Potintial Loyalist
+38,1,288.58,4,2,4,42,Potential Loyalist
 192,1,62.330000000000005,1,2,2,12,Hibernating
 16,3,188.89999999999998,5,4,4,54,VIP
 9,28,403.48,5,5,5,55,VIP
@@ -4096,7 +4096,7 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 339,1,9.7,1,2,1,12,Hibernating
 18,5,520.34,5,4,5,54,VIP
 11,4,631.1099999999999,5,4,5,54,VIP
-9,1,83.05,5,2,2,52,Potintial Loyalist
+9,1,83.05,5,2,2,52,Potential Loyalist
 155,1,82.95,2,2,2,22,Hibernating
 114,1,53.820000000000014,2,2,2,22,Hibernating
 45,1,80.85000000000001,3,2,2,32,About to Sleep
@@ -4117,10 +4117,10 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 288,1,55.629999999999995,1,2,2,12,Hibernating
 301,1,23.740000000000002,1,2,1,12,Hibernating
 30,3,44.79,4,4,2,44,Loyal Customer
-11,1,144.64,5,2,3,52,Potintial Loyalist
+11,1,144.64,5,2,3,52,Potential Loyalist
 213,1,74.58,1,2,2,12,Hibernating
-28,1,74.21000000000001,4,2,2,42,Potintial Loyalist
-21,1,36.6,5,2,1,52,Potintial Loyalist
+28,1,74.21000000000001,4,2,2,42,Potential Loyalist
+21,1,36.6,5,2,1,52,Potential Loyalist
 374,1,85.84000000000003,1,2,2,12,Hibernating
 226,1,124.42999999999999,1,2,3,12,Hibernating
 265,1,23.8,1,2,1,12,Hibernating
@@ -4142,9 +4142,9 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 267,1,33.650000000000006,1,2,1,12,Hibernating
 245,3,61.46,1,4,2,14,At Risk
 119,1,16.5,2,2,1,22,Hibernating
-22,2,100.64000000000001,4,3,3,43,Potintial Loyalist
+22,2,100.64000000000001,4,3,3,43,Potential Loyalist
 183,4,66.94999999999999,1,4,2,14,At Risk
-29,1,12.089999999999998,4,2,1,42,Potintial Loyalist
+29,1,12.089999999999998,4,2,1,42,Potential Loyalist
 113,2,266.13,2,3,4,23,At Risk
 217,1,17.25,1,2,1,12,Hibernating
 325,1,100.69999999999999,1,2,3,12,Hibernating
@@ -4153,7 +4153,7 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 195,1,27.270000000000003,1,2,1,12,Hibernating
 141,1,72.25,2,2,2,22,Hibernating
 207,1,106.99000000000001,1,2,3,12,Hibernating
-24,1,25.35,4,2,1,42,Potintial Loyalist
+24,1,25.35,4,2,1,42,Potential Loyalist
 319,1,63.550000000000004,1,2,2,12,Hibernating
 172,4,171.73000000000002,2,4,3,24,At Risk
 79,4,224.44999999999996,2,4,4,24,At Risk
@@ -4161,17 +4161,17 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 238,2,27.840000000000003,1,3,1,13,At Risk
 10,8,313.69,5,5,4,55,VIP
 87,4,71.54,2,4,2,24,At Risk
-32,1,58.97000000000001,4,2,2,42,Potintial Loyalist
+32,1,58.97000000000001,4,2,2,42,Potential Loyalist
 29,12,1028.81,4,5,5,45,Loyal Customer
 7,15,870.6400000000001,5,5,5,55,VIP
 20,15,769.43,5,5,5,55,VIP
 8,10,288.99,5,5,4,55,VIP
-20,2,127.13000000000001,5,3,3,53,Potintial Loyalist
+20,2,127.13000000000001,5,3,3,53,Potential Loyalist
 48,22,1092.67,3,5,5,35,Loyal Customer
 193,1,70.75000000000001,1,2,2,12,Hibernating
 30,6,232.82,4,5,4,45,Loyal Customer
 157,1,40.540000000000006,2,2,1,22,Hibernating
-14,2,122.64999999999999,5,3,3,53,Potintial Loyalist
+14,2,122.64999999999999,5,3,3,53,Potential Loyalist
 57,4,170.84999999999997,3,4,3,34,Loyal Customer
 87,4,112.43000000000002,2,4,3,24,At Risk
 56,1,82.13000000000001,3,2,2,32,About to Sleep
@@ -4184,17 +4184,17 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 284,1,32.230000000000004,1,2,1,12,Hibernating
 223,1,24.75,1,2,1,12,Hibernating
 98,1,25.36,2,2,1,22,Hibernating
-29,1,8.24,4,2,1,42,Potintial Loyalist
+29,1,8.24,4,2,1,42,Potential Loyalist
 88,4,428.94999999999993,2,4,5,24,At Risk
 106,6,140.4,2,5,3,25,Can't Loose
 8,5,153.85,5,4,3,54,VIP
 16,17,862.5300000000001,5,5,5,55,VIP
-35,2,51.65,4,3,2,43,Potintial Loyalist
+35,2,51.65,4,3,2,43,Potential Loyalist
 140,1,165.49999999999997,2,2,3,22,Hibernating
 76,1,29.100000000000005,3,2,1,32,About to Sleep
 314,1,50.77,1,2,2,12,Hibernating
 233,5,204.29999999999995,1,4,4,14,At Risk
-8,1,22.150000000000002,5,2,1,52,Potintial Loyalist
+8,1,22.150000000000002,5,2,1,52,Potential Loyalist
 74,1,10.1,3,2,1,32,About to Sleep
 251,2,60.790000000000006,1,3,2,13,At Risk
 190,3,154.84999999999997,1,4,3,14,At Risk
@@ -4203,7 +4203,7 @@ Recency,Frequency,Monetary,recency_score,frequeny_score,monetary_score,RFM_SCORE
 39,4,217.52,4,4,4,44,Loyal Customer
 46,1,65.45000000000002,3,2,2,32,About to Sleep
 161,1,5.31,2,2,1,22,Hibernating
-36,1,70.99999999999997,4,2,2,42,Potintial Loyalist
+36,1,70.99999999999997,4,2,2,42,Potential Loyalist
 219,1,19.009999999999998,1,2,1,12,Hibernating
 24,6,477.27,4,5,5,45,Loyal Customer
 73,1,41.09,3,2,1,32,About to Sleep
